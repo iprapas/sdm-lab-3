@@ -1,0 +1,1652 @@
+<http://somewhere/Journal/9048054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048054> <http://somewhere/Journal/name> "ACM Trans. Design Autom. Electr. Syst." .
+<http://somewhere/Journal/9048229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048229> <http://somewhere/Journal/name> "J. Cellular Automata" .
+<http://somewhere/Journal/9047798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047798> <http://somewhere/Journal/name> "J. Electrical and Computer Engineering" .
+<http://somewhere/Journal/9047545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047545> <http://somewhere/Journal/name> "Technology" .
+<http://somewhere/Journal/9048275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048275> <http://somewhere/Journal/name> "University of California at Berkeley" .
+<http://somewhere/Journal/9048022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048022> <http://somewhere/Journal/name> "J. Log. Algebr. Meth. Program." .
+<http://somewhere/Journal/9047591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047591> <http://somewhere/Journal/name> "Future Internet" .
+<http://somewhere/Journal/9047766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047766> <http://somewhere/Journal/name> "J. Scheduling" .
+<http://somewhere/Journal/9047513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047513> <http://somewhere/Journal/name> "Foundations and Trends in Computer Graphics and Vision" .
+<http://somewhere/Journal/9048243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048243> <http://somewhere/Journal/name> "Evolutionary Computation" .
+<http://somewhere/Journal/9047987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047987> <http://somewhere/Journal/name> "Open Computer Science" .
+<http://somewhere/Journal/9047734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047734> <http://somewhere/Journal/name> "Computing" .
+<http://somewhere/Journal/9047909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047909> <http://somewhere/Journal/name> "IEICE Transactions" .
+<http://somewhere/Journal/9047489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047489> <http://somewhere/Journal/name> "IEEE Trans. Reliability" .
+<http://somewhere/Journal/9048211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048211> <http://somewhere/Journal/name> "Transactions on Pattern Languages of Programming" .
+<http://somewhere/Journal/9047780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047780> <http://somewhere/Journal/name> "Appl. Math. Lett." .
+<http://somewhere/Journal/9047955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047955> <http://somewhere/Journal/name> "BMC Genomics" .
+<http://somewhere/Journal/9047702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047702> <http://somewhere/Journal/name> "IEEE Trans. Network and Service Management" .
+<http://somewhere/Journal/9047457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047457> <http://somewhere/Journal/name> "IET Networks" .
+<http://somewhere/Journal/9048187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048187> <http://somewhere/Journal/name> "J. of IT & Tourism" .
+<http://somewhere/Journal/9047923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047923> <http://somewhere/Journal/name> "J. Philosophical Logic" .
+<http://somewhere/Journal/9048109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048109> <http://somewhere/Journal/name> "IJAOSE" .
+<http://somewhere/Journal/9047678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047678> <http://somewhere/Journal/name> "IJMA" .
+<http://somewhere/Journal/9048155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048155> <http://somewhere/Journal/name> "J. Inf. Sci. Eng." .
+<http://somewhere/Journal/9047471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047471> <http://somewhere/Journal/name> "Information Systems Frontiers" .
+<http://somewhere/Journal/9047899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047899> <http://somewhere/Journal/name> "JORS" .
+<http://somewhere/Journal/9047646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047646> <http://somewhere/Journal/name> "Trans. Computational Collective Intelligence" .
+<http://somewhere/Journal/9048123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048123> <http://somewhere/Journal/name> "IEEE Trans. Engineering Management" .
+<http://somewhere/Journal/9047692> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047692> <http://somewhere/Journal/name> "I. J. Humanoid Robotics" .
+<http://somewhere/Journal/9047867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047867> <http://somewhere/Journal/name> "Journal of Machine Learning Research" .
+<http://somewhere/Journal/9047614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047614> <http://somewhere/Journal/name> "IS Management" .
+<http://somewhere/Journal/9047660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047660> <http://somewhere/Journal/name> "J. Phonetics" .
+<http://somewhere/Journal/9048099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048099> <http://somewhere/Journal/name> "Nature" .
+<http://somewhere/Journal/9047835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047835> <http://somewhere/Journal/name> "Proceedings of the IEEE" .
+<http://somewhere/Journal/9047881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047881> <http://somewhere/Journal/name> "Physical Communication" .
+<http://somewhere/Journal/9047803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047803> <http://somewhere/Journal/name> "Computer Methods and Programs in Biomedicine" .
+<http://somewhere/Journal/9048067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048067> <http://somewhere/Journal/name> "EAI Endorsed Trans. Cognitive Communications" .
+<http://somewhere/Journal/9047558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047558> <http://somewhere/Journal/name> "Mathematics in Computer Science" .
+<http://somewhere/Journal/9048035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048035> <http://somewhere/Journal/name> "IBIS" .
+<http://somewhere/Journal/9047779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047779> <http://somewhere/Journal/name> "Int. J. Neural Syst." .
+<http://somewhere/Journal/9047526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047526> <http://somewhere/Journal/name> "Australasian J. of Inf. Systems" .
+<http://somewhere/Journal/9048081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048081> <http://somewhere/Journal/name> "Engineering Letters" .
+<http://somewhere/Journal/9048256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048256> <http://somewhere/Journal/name> "ACM Trans. Program. Lang. Syst." .
+<http://somewhere/Journal/9048003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048003> <http://somewhere/Journal/name> "OMICS" .
+<http://somewhere/Journal/9047572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047572> <http://somewhere/Journal/name> "Technometrics" .
+<http://somewhere/Journal/9047747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047747> <http://somewhere/Journal/name> "EAI Endorsed Trans. e-Learning" .
+<http://somewhere/Journal/9048224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048224> <http://somewhere/Journal/name> "J. Sensor and Actuator Networks" .
+<http://somewhere/Journal/9047793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047793> <http://somewhere/Journal/name> "SIAM J. Numerical Analysis" .
+<http://somewhere/Journal/9047540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047540> <http://somewhere/Journal/name> "IEEE Trans. Speech and Audio Processing" .
+<http://somewhere/Journal/9047968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047968> <http://somewhere/Journal/name> "GI Datenbank Rundbrief" .
+<http://somewhere/Journal/9047715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047715> <http://somewhere/Journal/name> "Progress in AI" .
+<http://somewhere/Journal/9048270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048270> <http://somewhere/Journal/name> "LILOG-Memo" .
+<http://somewhere/Journal/9047761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047761> <http://somewhere/Journal/name> "Int. Journal of Network Management" .
+<http://somewhere/Journal/9047936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047936> <http://somewhere/Journal/name> "Ann. Software Eng." .
+<http://somewhere/Journal/9047982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047982> <http://somewhere/Journal/name> "Int. J. Comp. Sci. Sport" .
+<http://somewhere/Journal/9048168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048168> <http://somewhere/Journal/name> "it - Informationstechnik" .
+<http://somewhere/Journal/9047904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047904> <http://somewhere/Journal/name> "Computers & Geosciences" .
+<http://somewhere/Journal/9047484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047484> <http://somewhere/Journal/name> "J. Information Science" .
+<http://somewhere/Journal/9047659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047659> <http://somewhere/Journal/name> "Scientific Programming" .
+<http://somewhere/Journal/9047950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047950> <http://somewhere/Journal/name> "IJAOM" .
+<http://somewhere/Journal/9048136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048136> <http://somewhere/Journal/name> "J. Simulation" .
+<http://somewhere/Journal/9047452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047452> <http://somewhere/Journal/name> "J. Ambient Intelligence and Humanized Computing" .
+<http://somewhere/Journal/9047627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047627> <http://somewhere/Journal/name> "Journal of Communications and Networks" .
+<http://somewhere/Journal/9048182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048182> <http://somewhere/Journal/name> "IEEE Communications Letters" .
+<http://somewhere/Journal/9048104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048104> <http://somewhere/Journal/name> "IJAIP" .
+<http://somewhere/Journal/9047673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047673> <http://somewhere/Journal/name> "EAI Endorsed Trans. e-Business" .
+<http://somewhere/Journal/9047848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047848> <http://somewhere/Journal/name> "Electronic Commerce Research" .
+<http://somewhere/Journal/9048150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048150> <http://somewhere/Journal/name> "J. Adv. Inf. Fusion" .
+<http://somewhere/Journal/9047894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047894> <http://somewhere/Journal/name> "Angewandte Informatik" .
+<http://somewhere/Journal/9047641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047641> <http://somewhere/Journal/name> "IJCCE" .
+<http://somewhere/Journal/9047816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047816> <http://somewhere/Journal/name> "Int. J. Found. Comput. Sci." .
+<http://somewhere/Journal/9047862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047862> <http://somewhere/Journal/name> "J. Informetrics" .
+<http://somewhere/Journal/9048048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048048> <http://somewhere/Journal/name> "Computacin y Sistemas" .
+<http://somewhere/Journal/9047539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047539> <http://somewhere/Journal/name> "IEEE/ACM Trans. Audio" .
+<http://somewhere/Journal/9048094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048094> <http://somewhere/Journal/name> "Contributions to Discrete Mathematics" .
+<http://somewhere/Journal/9047830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047830> <http://somewhere/Journal/name> "Theory in Biosciences" .
+<http://somewhere/Journal/9048269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048269> <http://somewhere/Journal/name> "LILOG-Report" .
+<http://somewhere/Journal/9048016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048016> <http://somewhere/Journal/name> "ACM Trans. Comput. Syst." .
+<http://somewhere/Journal/9047585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047585> <http://somewhere/Journal/name> "Computer Science - R&D" .
+<http://somewhere/Journal/9047507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047507> <http://somewhere/Journal/name> "Computer-Aided Design" .
+<http://somewhere/Journal/9048062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048062> <http://somewhere/Journal/name> "IJHPCA" .
+<http://somewhere/Journal/9048237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048237> <http://somewhere/Journal/name> "Knowledge Eng. Review" .
+<http://somewhere/Journal/9047553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047553> <http://somewhere/Journal/name> "IJNDC" .
+<http://somewhere/Journal/9047728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047728> <http://somewhere/Journal/name> "IEEE Trans. Automation Science and Engineering" .
+<http://somewhere/Journal/9048030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048030> <http://somewhere/Journal/name> "Information" .
+<http://somewhere/Journal/9048205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048205> <http://somewhere/Journal/name> "IJISTA" .
+<http://somewhere/Journal/9047774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047774> <http://somewhere/Journal/name> "Games" .
+<http://somewhere/Journal/9047521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047521> <http://somewhere/Journal/name> "J. Computational Engineering" .
+<http://somewhere/Journal/9047949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047949> <http://somewhere/Journal/name> "Speech Communication" .
+<http://somewhere/Journal/9048251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048251> <http://somewhere/Journal/name> "J. UCS" .
+<http://somewhere/Journal/9047995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047995> <http://somewhere/Journal/name> "EURASIP J. Bioinformatics and Systems Biology" .
+<http://somewhere/Journal/9047742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047742> <http://somewhere/Journal/name> "Scholarpedia" .
+<http://somewhere/Journal/9047917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047917> <http://somewhere/Journal/name> "JILSA" .
+<http://somewhere/Journal/9047497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047497> <http://somewhere/Journal/name> "IEEE Journal on Selected Areas in Communications" .
+<http://somewhere/Journal/9047963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047963> <http://somewhere/Journal/name> "Austr. J. Intelligent Information Processing Systems" .
+<http://somewhere/Journal/9047710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047710> <http://somewhere/Journal/name> "Advances in Complex Systems" .
+<http://somewhere/Journal/9048149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048149> <http://somewhere/Journal/name> "Space Communications" .
+<http://somewhere/Journal/9047465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047465> <http://somewhere/Journal/name> "Control and Intelligent Systems" .
+<http://somewhere/Journal/9048195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048195> <http://somewhere/Journal/name> "Inf. Services and Use" .
+<http://somewhere/Journal/9047931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047931> <http://somewhere/Journal/name> "Networks" .
+<http://somewhere/Journal/9048117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048117> <http://somewhere/Journal/name> "IEEE Trans. Biomed. Engineering" .
+<http://somewhere/Journal/9047686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047686> <http://somewhere/Journal/name> "Journal of Computational Chemistry" .
+<http://somewhere/Journal/9047608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047608> <http://somewhere/Journal/name> "J. Grid Comput." .
+<http://somewhere/Journal/9048163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048163> <http://somewhere/Journal/name> "Int. J. Systems Science" .
+<http://somewhere/Journal/9047654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047654> <http://somewhere/Journal/name> "Int J. Information Management" .
+<http://somewhere/Journal/9047829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047829> <http://somewhere/Journal/name> "J. Comput. Science" .
+<http://somewhere/Journal/9048131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048131> <http://somewhere/Journal/name> "IJITWE" .
+<http://somewhere/Journal/9047875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047875> <http://somewhere/Journal/name> "International Journal of Computer Vision" .
+<http://somewhere/Journal/9047622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047622> <http://somewhere/Journal/name> "IET Wireless Sensor Systems" .
+<http://somewhere/Journal/9047843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047843> <http://somewhere/Journal/name> "IJDE" .
+<http://somewhere/Journal/9048029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048029> <http://somewhere/Journal/name> "EURASIP J. Emb. Sys." .
+<http://somewhere/Journal/9048075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048075> <http://somewhere/Journal/name> "Intelligent Service Robotics" .
+<http://somewhere/Journal/9047811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047811> <http://somewhere/Journal/name> "Comput. Geom." .
+<http://somewhere/Journal/9047566> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047566> <http://somewhere/Journal/name> "IJISP" .
+<http://somewhere/Journal/9048043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048043> <http://somewhere/Journal/name> "Robotics and Autonomous Systems" .
+<http://somewhere/Journal/9048218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048218> <http://somewhere/Journal/name> "Journal of Information" .
+<http://somewhere/Journal/9047787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047787> <http://somewhere/Journal/name> "Information Storage and Retrieval" .
+<http://somewhere/Journal/9047534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047534> <http://somewhere/Journal/name> "J. Cases on Inf. Techn." .
+<http://somewhere/Journal/9047709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047709> <http://somewhere/Journal/name> "TOSN" .
+<http://somewhere/Journal/9048264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048264> <http://somewhere/Journal/name> "Compulog Newsletter" .
+<http://somewhere/Journal/9048011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048011> <http://somewhere/Journal/name> "IT for Development" .
+<http://somewhere/Journal/9047580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047580> <http://somewhere/Journal/name> "EAI Endorsed Trans. Mobile Communications Applications" .
+<http://somewhere/Journal/9047598;;login> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047598;;login> <http://somewhere/Journal/name> "" .
+<http://somewhere/Journal/9047755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047755> <http://somewhere/Journal/name> "IEEE Comp. Int. Mag." .
+<http://somewhere/Journal/9047502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047502> <http://somewhere/Journal/name> "Polibits" .
+<http://somewhere/Journal/9048232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048232> <http://somewhere/Journal/name> "Computers and Electronics in Agriculture" .
+<http://somewhere/Journal/9047976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047976> <http://somewhere/Journal/name> "IJSSMET" .
+<http://somewhere/Journal/9047723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047723> <http://somewhere/Journal/name> "IJKSS" .
+<http://somewhere/Journal/9047478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047478> <http://somewhere/Journal/name> "Egyptian Computer Science Journal" .
+<http://somewhere/Journal/9048200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048200> <http://somewhere/Journal/name> "J. Global Optimization" .
+<http://somewhere/Journal/9047944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047944> <http://somewhere/Journal/name> "Journal of Computational Neuroscience" .
+<http://somewhere/Journal/9047699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047699> <http://somewhere/Journal/name> "Simulation" .
+<http://somewhere/Journal/9047990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047990> <http://somewhere/Journal/name> "TiiS" .
+<http://somewhere/Journal/9048176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048176> <http://somewhere/Journal/name> "Cryptologia" .
+<http://somewhere/Journal/9047912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047912> <http://somewhere/Journal/name> "Int. J. Web Eng. Technol." .
+<http://somewhere/Journal/9047492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047492> <http://somewhere/Journal/name> "IJAVET" .
+<http://somewhere/Journal/9047667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047667> <http://somewhere/Journal/name> "IEEE Trans. Emerging Topics in Comput. Intellig." .
+<http://somewhere/Journal/9048144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048144> <http://somewhere/Journal/name> "Machine Learning" .
+<http://somewhere/Journal/9047460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047460> <http://somewhere/Journal/name> "IJAISC" .
+<http://somewhere/Journal/9047888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047888> <http://somewhere/Journal/name> "Evolving Systems" .
+<http://somewhere/Journal/9047635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047635> <http://somewhere/Journal/name> "IJALR" .
+<http://somewhere/Journal/9048190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048190> <http://somewhere/Journal/name> "Ledger" .
+<http://somewhere/Journal/9048112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048112> <http://somewhere/Journal/name> "IJHAC" .
+<http://somewhere/Journal/9047681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047681> <http://somewhere/Journal/name> "ECEASST" .
+<http://somewhere/Journal/9047856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047856> <http://somewhere/Journal/name> "Pattern Anal. Appl." .
+<http://somewhere/Journal/9047603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047603> <http://somewhere/Journal/name> "J. Sensors" .
+<http://somewhere/Journal/9048088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048088> <http://somewhere/Journal/name> "Computers & Education" .
+<http://somewhere/Journal/9047824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047824> <http://somewhere/Journal/name> "ITSSA" .
+<http://somewhere/Journal/9047579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047579> <http://somewhere/Journal/name> "ICST Trans. Mobile Communications Applications" .
+<http://somewhere/Journal/9047870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047870> <http://somewhere/Journal/name> "Computing Systems" .
+<http://somewhere/Journal/9048056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048056> <http://somewhere/Journal/name> "Appl. Intell." .
+<http://somewhere/Journal/9047547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047547> <http://somewhere/Journal/name> "EAI Endorsed Trans. Indust. Netw. & Intellig. Syst." .
+<http://somewhere/Journal/9048277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048277> <http://somewhere/Journal/name> "ANSI X2H2" .
+<http://somewhere/Journal/9047593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047593> <http://somewhere/Journal/name> "Image Vision Comput." .
+<http://somewhere/Journal/9048024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048024> <http://somewhere/Journal/name> "Automatisierungstechnik" .
+<http://somewhere/Journal/9047768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047768> <http://somewhere/Journal/name> "ACM SIGACCESS" .
+<http://somewhere/Journal/9047515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047515> <http://somewhere/Journal/name> "IJIRR" .
+<http://somewhere/Journal/9048070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048070> <http://somewhere/Journal/name> "Int. J. Control" .
+<http://somewhere/Journal/9048245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048245> <http://somewhere/Journal/name> "Information & Software Technology" .
+<http://somewhere/Journal/9047561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047561> <http://somewhere/Journal/name> "IJSDA" .
+<http://somewhere/Journal/9047989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047989> <http://somewhere/Journal/name> "Asymptotic Analysis" .
+<http://somewhere/Journal/9047736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047736> <http://somewhere/Journal/name> "IJSS" .
+<http://somewhere/Journal/9048213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048213> <http://somewhere/Journal/name> "ACM Trans. Asian Lang. Inf. Process." .
+<http://somewhere/Journal/9047782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047782> <http://somewhere/Journal/name> "JETC" .
+<http://somewhere/Journal/9047957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047957> <http://somewhere/Journal/name> "Signal Processing Systems" .
+<http://somewhere/Journal/9047704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047704> <http://somewhere/Journal/name> "J. Robotics" .
+<http://somewhere/Journal/9047459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047459> <http://somewhere/Journal/name> "Human Factors" .
+<http://somewhere/Journal/9047750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047750> <http://somewhere/Journal/name> "J. Mathematical Cryptology" .
+<http://somewhere/Journal/9048189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048189> <http://somewhere/Journal/name> "Discrete Mathematics" .
+<http://somewhere/Journal/9047925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047925> <http://somewhere/Journal/name> "TKDD" .
+<http://somewhere/Journal/9047971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047971> <http://somewhere/Journal/name> "Oper. Res. Lett." .
+<http://somewhere/Journal/9048157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048157> <http://somewhere/Journal/name> "Techn. Analysis & Strat. Manag." .
+<http://somewhere/Journal/9047473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047473> <http://somewhere/Journal/name> "ICST Trans. Security Safety" .
+<http://somewhere/Journal/9047648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047648> <http://somewhere/Journal/name> "IJATEM" .
+<http://somewhere/Journal/9048125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048125> <http://somewhere/Journal/name> "Int. J. Communication Systems" .
+<http://somewhere/Journal/9047694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047694> <http://somewhere/Journal/name> "Int. Arab J. e-Technol." .
+<http://somewhere/Journal/9047869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047869> <http://somewhere/Journal/name> "IJSSC" .
+<http://somewhere/Journal/9047616> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047616> <http://somewhere/Journal/name> "I. J. Robotics Res." .
+<http://somewhere/Journal/9048171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048171> <http://somewhere/Journal/name> "Scientometrics" .
+<http://somewhere/Journal/9047662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047662> <http://somewhere/Journal/name> "Spatial Cognition & Computation" .
+<http://somewhere/Journal/9047837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047837> <http://somewhere/Journal/name> "IEEE Geosci. Remote Sensing Lett." .
+<http://somewhere/Journal/9047883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047883> <http://somewhere/Journal/name> "Computat. and Visualiz. in Science" .
+<http://somewhere/Journal/9047630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047630> <http://somewhere/Journal/name> "Computer Applications in the Biosciences" .
+<http://somewhere/Journal/9047805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047805> <http://somewhere/Journal/name> "SIGHIT Record" .
+<http://somewhere/Journal/9048069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048069> <http://somewhere/Journal/name> "IEEE Trans. on CAD of Integrated Circuits and Systems" .
+<http://somewhere/Journal/9047851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047851> <http://somewhere/Journal/name> "J. Cybersecurity" .
+<http://somewhere/Journal/9048037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048037> <http://somewhere/Journal/name> "IJMNO" .
+<http://somewhere/Journal/9047528> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047528> <http://somewhere/Journal/name> "Computer Aided Geometric Design" .
+<http://somewhere/Journal/9048083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048083> <http://somewhere/Journal/name> "Mech. Translat. & Comp. Linguistics" .
+<http://somewhere/Journal/9048258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048258> <http://somewhere/Journal/name> "International Journal of Man-Machine Studies" .
+<http://somewhere/Journal/9048005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048005> <http://somewhere/Journal/name> "Math. Oper. Res." .
+<http://somewhere/Journal/9047574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047574> <http://somewhere/Journal/name> "Annals of GIS" .
+<http://somewhere/Journal/9047749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047749> <http://somewhere/Journal/name> "Statistical Methods and Applications" .
+<http://somewhere/Journal/9048051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048051> <http://somewhere/Journal/name> "Ars Math. Contemp." .
+<http://somewhere/Journal/9048226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048226> <http://somewhere/Journal/name> "Eng. Comput. (Lond.)" .
+<http://somewhere/Journal/9047795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047795> <http://somewhere/Journal/name> "Computers & OR" .
+<http://somewhere/Journal/9047542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047542> <http://somewhere/Journal/name> "IJNMC" .
+<http://somewhere/Journal/9047717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047717> <http://somewhere/Journal/name> "J. Systems Science & Complexity" .
+<http://somewhere/Journal/9048272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048272> <http://somewhere/Journal/name> "Digital System Research Center Report" .
+<http://somewhere/Journal/9047763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047763> <http://somewhere/Journal/name> "Journal of Chemical Information and Modeling" .
+<http://somewhere/Journal/9047510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047510> <http://somewhere/Journal/name> "IJBPIM" .
+<http://somewhere/Journal/9047938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047938> <http://somewhere/Journal/name> "OJCC" .
+<http://somewhere/Journal/9048240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048240> <http://somewhere/Journal/name> "Complexity" .
+<http://somewhere/Journal/9047984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047984> <http://somewhere/Journal/name> "International Journal of Computational Engineering Science" .
+<http://somewhere/Journal/9047731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047731> <http://somewhere/Journal/name> "IEEE Concurrency" .
+<http://somewhere/Journal/9047906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047906> <http://somewhere/Journal/name> "IEEE Trans. Circuits Syst. Video Techn." .
+<http://somewhere/Journal/9047486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047486> <http://somewhere/Journal/name> "Medical Image Analysis" .
+<http://somewhere/Journal/9047952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047952> <http://somewhere/Journal/name> "Data Techn. and Applic." .
+<http://somewhere/Journal/9048138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048138> <http://somewhere/Journal/name> "IJIRA" .
+<http://somewhere/Journal/9047454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047454> <http://somewhere/Journal/name> "Computers & Chemistry" .
+<http://somewhere/Journal/9047629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047629> <http://somewhere/Journal/name> "Bioinformatics" .
+<http://somewhere/Journal/9048184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048184> <http://somewhere/Journal/name> "J. Comb. Theory" .
+<http://somewhere/Journal/9047920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047920> <http://somewhere/Journal/name> "Microprocessors" .
+<http://somewhere/Journal/9048106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048106> <http://somewhere/Journal/name> "Int. J. Electronic Commerce" .
+<http://somewhere/Journal/9047675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047675> <http://somewhere/Journal/name> "IEEE Trans. Games" .
+<http://somewhere/Journal/9048152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048152> <http://somewhere/Journal/name> "J. Location Based Services" .
+<http://somewhere/Journal/9047896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047896> <http://somewhere/Journal/name> "J. Bioinformatics and Computational Biology" .
+<http://somewhere/Journal/9047643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047643> <http://somewhere/Journal/name> "IJWMC" .
+<http://somewhere/Journal/9047818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047818> <http://somewhere/Journal/name> "J. Signal and Information Processing" .
+<http://somewhere/Journal/9048120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048120> <http://somewhere/Journal/name> "IJIDE" .
+<http://somewhere/Journal/9047864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047864> <http://somewhere/Journal/name> "J. Cloud Computing" .
+<http://somewhere/Journal/9047611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047611> <http://somewhere/Journal/name> "EURASIP J. Information Security" .
+<http://somewhere/Journal/9048096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048096> <http://somewhere/Journal/name> "IJUWBCS" .
+<http://somewhere/Journal/9047832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047832> <http://somewhere/Journal/name> "IEEE Trans. Software Eng." .
+<http://somewhere/Journal/9047587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047587> <http://somewhere/Journal/name> "J. Imaging" .
+<http://somewhere/Journal/9048018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048018> <http://somewhere/Journal/name> "INFORMS Trans. Education" .
+<http://somewhere/Journal/9047509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047509> <http://somewhere/Journal/name> "ARIST" .
+<http://somewhere/Journal/9047800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047800> <http://somewhere/Journal/name> "Finite Fields and Their Applications" .
+<http://somewhere/Journal/9048064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048064> <http://somewhere/Journal/name> "IJVCSN" .
+<http://somewhere/Journal/9048239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048239> <http://somewhere/Journal/name> "Adv. Model. and Simul. in Eng. Sciences" .
+<http://somewhere/Journal/9047555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047555> <http://somewhere/Journal/name> "Computational & Mathematical Organization Theory" .
+<http://somewhere/Journal/9048032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048032> <http://somewhere/Journal/name> "Information Technology and Management" .
+<http://somewhere/Journal/9048207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048207> <http://somewhere/Journal/name> "IJeC" .
+<http://somewhere/Journal/9047776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047776> <http://somewhere/Journal/name> "Information Systems Security" .
+<http://somewhere/Journal/9047523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047523> <http://somewhere/Journal/name> "Data Science and Engineering" .
+<http://somewhere/Journal/9048253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048253> <http://somewhere/Journal/name> "Int. Syst. in Accounting" .
+<http://somewhere/Journal/9048000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048000> <http://somewhere/Journal/name> "J. Network and Computer Applications" .
+<http://somewhere/Journal/9047997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047997> <http://somewhere/Journal/name> "Int. J. Systems Assurance Engineering and Management" .
+<http://somewhere/Journal/9047744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047744> <http://somewhere/Journal/name> "IT & People" .
+<http://somewhere/Journal/9047919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047919> <http://somewhere/Journal/name> "Microprocessors and Microsystems - Embedded Hardware Design" .
+<http://somewhere/Journal/9047499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047499> <http://somewhere/Journal/name> "Int. J. Semantic Web Inf. Syst." .
+<http://somewhere/Journal/9048221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048221> <http://somewhere/Journal/name> "GetMobile" .
+<http://somewhere/Journal/9047790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047790> <http://somewhere/Journal/name> "Journal of Documentation" .
+<http://somewhere/Journal/9047965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047965> <http://somewhere/Journal/name> "OJIOT" .
+<http://somewhere/Journal/9047712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047712> <http://somewhere/Journal/name> "IJMBL" .
+<http://somewhere/Journal/9047467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047467> <http://somewhere/Journal/name> "J. Spatial Information Science" .
+<http://somewhere/Journal/9048197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048197> <http://somewhere/Journal/name> "J. Braz. Comp. Soc." .
+<http://somewhere/Journal/9047933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047933> <http://somewhere/Journal/name> "Advanced Engineering Informatics" .
+<http://somewhere/Journal/9048119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048119> <http://somewhere/Journal/name> "IJEHMC" .
+<http://somewhere/Journal/9047688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047688> <http://somewhere/Journal/name> "IJEOE" .
+<http://somewhere/Journal/9048165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048165> <http://somewhere/Journal/name> "Wiley Interdiscip. Rev. Data Min. Knowl. Discov." .
+<http://somewhere/Journal/9047901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047901> <http://somewhere/Journal/name> "J. Information Telecommunication" .
+<http://somewhere/Journal/9047481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047481> <http://somewhere/Journal/name> "Adv. Internet of Things" .
+<http://somewhere/Journal/9047656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047656> <http://somewhere/Journal/name> "POMACS" .
+<http://somewhere/Journal/9048133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048133> <http://somewhere/Journal/name> "Journal of Object Technology" .
+<http://somewhere/Journal/9047877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047877> <http://somewhere/Journal/name> "JLCL" .
+<http://somewhere/Journal/9047624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047624> <http://somewhere/Journal/name> "Journal of WSCG" .
+<http://somewhere/Journal/9048101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048101> <http://somewhere/Journal/name> "Risk and Decision Analysis" .
+<http://somewhere/Journal/9047670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047670> <http://somewhere/Journal/name> "SIGIR Forum" .
+<http://somewhere/Journal/9047845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047845> <http://somewhere/Journal/name> "Educational Technology & Society" .
+<http://somewhere/Journal/9047891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047891> <http://somewhere/Journal/name> "Software and System Modeling" .
+<http://somewhere/Journal/9048077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048077> <http://somewhere/Journal/name> "Behaviour & IT" .
+<http://somewhere/Journal/9047813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047813> <http://somewhere/Journal/name> "J. Intelligent Systems" .
+<http://somewhere/Journal/9047568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047568> <http://somewhere/Journal/name> "T. Large-Scale Data- and Knowledge-Centered Systems" .
+<http://somewhere/Journal/9048045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048045> <http://somewhere/Journal/name> "IJWLTT" .
+<http://somewhere/Journal/9047789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047789> <http://somewhere/Journal/name> "J. Graph Algorithms Appl." .
+<http://somewhere/Journal/9047536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047536> <http://somewhere/Journal/name> "IJUC" .
+<http://somewhere/Journal/9048091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048091> <http://somewhere/Journal/name> "Library Hi Tech" .
+<http://somewhere/Journal/9048266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048266> <http://somewhere/Journal/name> "GTE Laboratories Incorporated" .
+<http://somewhere/Journal/9047582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047582> <http://somewhere/Journal/name> "J. Knowledge Management" .
+<http://somewhere/Journal/9048013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048013> <http://somewhere/Journal/name> "Trans. GIS" .
+<http://somewhere/Journal/9047757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047757> <http://somewhere/Journal/name> "IEEE Robot. Automat. Mag." .
+<http://somewhere/Journal/9047504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047504> <http://somewhere/Journal/name> "Information Systems Research" .
+<http://somewhere/Journal/9048234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048234> <http://somewhere/Journal/name> "IEEE Trans. Robotics and Automation" .
+<http://somewhere/Journal/9047550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047550> <http://somewhere/Journal/name> "Trans. Aspect-Oriented Software Development" .
+<http://somewhere/Journal/9047978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047978> <http://somewhere/Journal/name> "IJIIT" .
+<http://somewhere/Journal/9047725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047725> <http://somewhere/Journal/name> "JRTPM" .
+<http://somewhere/Journal/9048202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048202> <http://somewhere/Journal/name> "Datenbank-Spektrum" .
+<http://somewhere/Journal/9047771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047771> <http://somewhere/Journal/name> "Visual Informatics" .
+<http://somewhere/Journal/9047946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047946> <http://somewhere/Journal/name> "TOCT" .
+<http://somewhere/Journal/9047992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047992> <http://somewhere/Journal/name> "IJCC" .
+<http://somewhere/Journal/9048178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048178> <http://somewhere/Journal/name> "J. Instruction-Level Parallelism" .
+<http://somewhere/Journal/9047914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047914> <http://somewhere/Journal/name> "IJCCBS" .
+<http://somewhere/Journal/9047494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047494> <http://somewhere/Journal/name> "JECO" .
+<http://somewhere/Journal/9047669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047669> <http://somewhere/Journal/name> "IJICoT" .
+<http://somewhere/Journal/9047960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047960> <http://somewhere/Journal/name> "IJSDIR" .
+<http://somewhere/Journal/9048146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048146> <http://somewhere/Journal/name> "PeerJ PrePrints" .
+<http://somewhere/Journal/9047462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047462> <http://somewhere/Journal/name> "IJISSS" .
+<http://somewhere/Journal/9047637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047637> <http://somewhere/Journal/name> "J. Graphics Tools" .
+<http://somewhere/Journal/9048192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048192> <http://somewhere/Journal/name> "IEEE Trans. Instrumentation and Measurement" .
+<http://somewhere/Journal/9048114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048114> <http://somewhere/Journal/name> "International Journal of Uncertainty" .
+<http://somewhere/Journal/9047683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047683> <http://somewhere/Journal/name> "J. Nonlinear Science" .
+<http://somewhere/Journal/9047858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047858> <http://somewhere/Journal/name> "Artif. Intell. Rev." .
+<http://somewhere/Journal/9047605> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047605> <http://somewhere/Journal/name> "IJSNET" .
+<http://somewhere/Journal/9048160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048160> <http://somewhere/Journal/name> "CVGIP Image Understanding" .
+<http://somewhere/Journal/9047651> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047651> <http://somewhere/Journal/name> "The American Mathematical Monthly" .
+<http://somewhere/Journal/9047826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047826> <http://somewhere/Journal/name> "I. J. Computational Biology and Drug Design" .
+<http://somewhere/Journal/9047872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047872> <http://somewhere/Journal/name> "IJMIS" .
+<http://somewhere/Journal/9048058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048058> <http://somewhere/Journal/name> "I. J. Social Robotics" .
+<http://somewhere/Journal/9047549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047549> <http://somewhere/Journal/name> "J. Computer-Mediated Communication" .
+<http://somewhere/Journal/9047840> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047840> <http://somewhere/Journal/name> "Neural Computation" .
+<http://somewhere/Journal/9047595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047595> <http://somewhere/Journal/name> "IJDMMM" .
+<http://somewhere/Journal/9048026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048026> <http://somewhere/Journal/name> "Natural Language Engineering" .
+<http://somewhere/Journal/9047517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047517> <http://somewhere/Journal/name> "J. Logic & Analysis" .
+<http://somewhere/Journal/9048072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048072> <http://somewhere/Journal/name> "IJFSA" .
+<http://somewhere/Journal/9048247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048247> <http://somewhere/Journal/name> "Computational Intelligence" .
+<http://somewhere/Journal/9047563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047563> <http://somewhere/Journal/name> "RAIRO - Theor. Inf. and Applic." .
+<http://somewhere/Journal/9047738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047738> <http://somewhere/Journal/name> "Science and Engineering Ethics" .
+<http://somewhere/Journal/9048040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048040> <http://somewhere/Journal/name> "Adv. Software Engineering" .
+<http://somewhere/Journal/9048215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048215> <http://somewhere/Journal/name> "Ubiquity" .
+<http://somewhere/Journal/9047784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047784> <http://somewhere/Journal/name> "IEEE Trans. Prof. Communication" .
+<http://somewhere/Journal/9047531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047531> <http://somewhere/Journal/name> "Trans. Data Privacy" .
+<http://somewhere/Journal/9047959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047959> <http://somewhere/Journal/name> "Fundam. Inform." .
+<http://somewhere/Journal/9047706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047706> <http://somewhere/Journal/name> "RITA" .
+<http://somewhere/Journal/9048261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048261> <http://somewhere/Journal/name> "IBM Research Report" .
+<http://somewhere/Journal/9047752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047752> <http://somewhere/Journal/name> "EAI Endorsed Trans. Scalable Information Systems" .
+<http://somewhere/Journal/9047927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047927> <http://somewhere/Journal/name> "Int. J. of Asian Lang. Proc." .
+<http://somewhere/Journal/9047973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047973> <http://somewhere/Journal/name> "IJITPM" .
+<http://somewhere/Journal/9047720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047720> <http://somewhere/Journal/name> "Electronic Notes in Discrete Mathematics" .
+<http://somewhere/Journal/9048159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048159> <http://somewhere/Journal/name> "Computer Vision and Image Understanding" .
+<http://somewhere/Journal/9047475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047475> <http://somewhere/Journal/name> "Optical Switching and Networking" .
+<http://somewhere/Journal/9047941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047941> <http://somewhere/Journal/name> "IJWBC" .
+<http://somewhere/Journal/9048127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048127> <http://somewhere/Journal/name> "Intelligent Automation & Soft Computing" .
+<http://somewhere/Journal/9047696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047696> <http://somewhere/Journal/name> "Ann. Math. Artif. Intell." .
+<http://somewhere/Journal/9047618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047618> <http://somewhere/Journal/name> "SIAM J. Math. Analysis" .
+<http://somewhere/Journal/9048173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048173> <http://somewhere/Journal/name> "Industrial Management and Data Systems" .
+<http://somewhere/Journal/9047664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047664> <http://somewhere/Journal/name> "J. Internet Serv. Inf. Secur." .
+<http://somewhere/Journal/9047839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047839> <http://somewhere/Journal/name> "Wireless Sensor Network" .
+<http://somewhere/Journal/9048141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048141> <http://somewhere/Journal/name> "EURO J. Computational Optimization" .
+<http://somewhere/Journal/9047885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047885> <http://somewhere/Journal/name> "Information and Organization" .
+<http://somewhere/Journal/9047632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047632> <http://somewhere/Journal/name> "Bioinformatics [ISMB/ECCB]" .
+<http://somewhere/Journal/9047807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047807> <http://somewhere/Journal/name> "I. J. Speech Technology" .
+<http://somewhere/Journal/9047853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047853> <http://somewhere/Journal/name> "J. Artif. Intell. Soft Comput. Res." .
+<http://somewhere/Journal/9047600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047600> <http://somewhere/Journal/name> "J. Internet Services and Applications" .
+<http://somewhere/Journal/9048039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048039> <http://somewhere/Journal/name> "IJMHCI" .
+<http://somewhere/Journal/9048085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048085> <http://somewhere/Journal/name> "Computers & Electrical Engineering" .
+<http://somewhere/Journal/9047821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047821> <http://somewhere/Journal/name> "MIS Quarterly Executive" .
+<http://somewhere/Journal/9047576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047576> <http://somewhere/Journal/name> "IJICTHD" .
+<http://somewhere/Journal/9048007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048007> <http://somewhere/Journal/name> "Computers and Artificial Intelligence" .
+<http://somewhere/Journal/9048053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048053> <http://somewhere/Journal/name> "J. Inf." .
+<http://somewhere/Journal/9048228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048228> <http://somewhere/Journal/name> "J. Cryptographic Engineering" .
+<http://somewhere/Journal/9047797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047797> <http://somewhere/Journal/name> "IJACDT" .
+<http://somewhere/Journal/9047544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047544> <http://somewhere/Journal/name> "I. J. Computers for Math. Learning" .
+<http://somewhere/Journal/9047719> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047719> <http://somewhere/Journal/name> "Operations Research" .
+<http://somewhere/Journal/9048274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048274> <http://somewhere/Journal/name> "meltdownattack.com" .
+<http://somewhere/Journal/9048021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048021> <http://somewhere/Journal/name> "J. Log. Algebr. Program." .
+<http://somewhere/Journal/9047590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047590> <http://somewhere/Journal/name> "Int. J. on Digital Libraries" .
+<http://somewhere/Journal/9047765> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047765> <http://somewhere/Journal/name> "Universal Access in the Information Society" .
+<http://somewhere/Journal/9047512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047512> <http://somewhere/Journal/name> "Intelligent Tutoring Media" .
+<http://somewhere/Journal/9048242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048242> <http://somewhere/Journal/name> "i-com" .
+<http://somewhere/Journal/9047986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047986> <http://somewhere/Journal/name> "Cognitive Science" .
+<http://somewhere/Journal/9047733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047733> <http://somewhere/Journal/name> "Programming Journal" .
+<http://somewhere/Journal/9047908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047908> <http://somewhere/Journal/name> "IEEE Trans. Cogn. Comm. & Networking" .
+<http://somewhere/Journal/9047488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047488> <http://somewhere/Journal/name> "Online Information Review" .
+<http://somewhere/Journal/9048210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048210> <http://somewhere/Journal/name> "T. Edutainment" .
+<http://somewhere/Journal/9047954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047954> <http://somewhere/Journal/name> "Autonomous Agents and Multi-Agent Systems" .
+<http://somewhere/Journal/9047701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047701> <http://somewhere/Journal/name> "Foundations and Trends in Technology" .
+<http://somewhere/Journal/9047456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047456> <http://somewhere/Journal/name> "Electronic Publishing" .
+<http://somewhere/Journal/9048186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048186> <http://somewhere/Journal/name> "Cryptography" .
+<http://somewhere/Journal/9047922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047922> <http://somewhere/Journal/name> "Journal of Decision Systems" .
+<http://somewhere/Journal/9048108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048108> <http://somewhere/Journal/name> "Front. Digital Humanities" .
+<http://somewhere/Journal/9047677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047677> <http://somewhere/Journal/name> "Int. J. Comput. Syst. Signal" .
+<http://somewhere/Journal/9048154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048154> <http://somewhere/Journal/name> "Aslib Proceedings" .
+<http://somewhere/Journal/9047470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047470> <http://somewhere/Journal/name> "IJMCMC" .
+<http://somewhere/Journal/9047898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047898> <http://somewhere/Journal/name> "IJMIC" .
+<http://somewhere/Journal/9047645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047645> <http://somewhere/Journal/name> "Prague Bull. Math. Linguistics" .
+<http://somewhere/Journal/9048122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048122> <http://somewhere/Journal/name> "KES Journal" .
+<http://somewhere/Journal/9047691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047691> <http://somewhere/Journal/name> "ACM StandardView" .
+<http://somewhere/Journal/9047866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047866> <http://somewhere/Journal/name> "New Media & Society" .
+<http://somewhere/Journal/9047613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047613> <http://somewhere/Journal/name> "IJOCI" .
+<http://somewhere/Journal/9048098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048098> <http://somewhere/Journal/name> "Formal Asp. Comput." .
+<http://somewhere/Journal/9047834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047834> <http://somewhere/Journal/name> "Advances in Adaptive Data Analysis" .
+<http://somewhere/Journal/9047589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047589> <http://somewhere/Journal/name> "ACM Trans. Comput. Log." .
+<http://somewhere/Journal/9047880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047880> <http://somewhere/Journal/name> "CASM" .
+<http://somewhere/Journal/9047802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047802> <http://somewhere/Journal/name> "ACM Trans. Economics and Comput." .
+<http://somewhere/Journal/9048066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048066> <http://somewhere/Journal/name> "Wireless Personal Communications" .
+<http://somewhere/Journal/9047557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047557> <http://somewhere/Journal/name> "LLC" .
+<http://somewhere/Journal/9048034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048034> <http://somewhere/Journal/name> "PACMPL" .
+<http://somewhere/Journal/9048209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048209> <http://somewhere/Journal/name> "Trans. Edutainment" .
+<http://somewhere/Journal/9047778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047778> <http://somewhere/Journal/name> "PsychNology Journal" .
+<http://somewhere/Journal/9047525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047525> <http://somewhere/Journal/name> "IEEE Computational Intelligence Bulletin" .
+<http://somewhere/Journal/9048080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048080> <http://somewhere/Journal/name> "Periodica Mathematica Hungarica" .
+<http://somewhere/Journal/9048255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048255> <http://somewhere/Journal/name> "IJDLDC" .
+<http://somewhere/Journal/9047571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047571> <http://somewhere/Journal/name> "IJMTM" .
+<http://somewhere/Journal/9048002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048002> <http://somewhere/Journal/name> "Cognitive Computation" .
+<http://somewhere/Journal/9047999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047999> <http://somewhere/Journal/name> "J. Autom. Reasoning" .
+<http://somewhere/Journal/9047746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047746> <http://somewhere/Journal/name> "ICST Trans. e-Education e-Learning" .
+<http://somewhere/Journal/9048223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048223> <http://somewhere/Journal/name> "PVLDB" .
+<http://somewhere/Journal/9047792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047792> <http://somewhere/Journal/name> "Neurocomputing" .
+<http://somewhere/Journal/9047967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047967> <http://somewhere/Journal/name> "IJCAC" .
+<http://somewhere/Journal/9047714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047714> <http://somewhere/Journal/name> "FLAP" .
+<http://somewhere/Journal/9047469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047469> <http://somewhere/Journal/name> "Discussiones Mathematicae Graph Theory" .
+<http://somewhere/Journal/9047760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047760> <http://somewhere/Journal/name> "Journal of Interconnection Networks" .
+<http://somewhere/Journal/9048199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048199> <http://somewhere/Journal/name> "South African Computer Journal" .
+<http://somewhere/Journal/9047935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047935> <http://somewhere/Journal/name> "Trans. MLDM" .
+<http://somewhere/Journal/9047981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047981> <http://somewhere/Journal/name> "IJEB" .
+<http://somewhere/Journal/9048167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048167> <http://somewhere/Journal/name> "Elektronische Rechenanlagen" .
+<http://somewhere/Journal/9047903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047903> <http://somewhere/Journal/name> "PeerJ Computer Science" .
+<http://somewhere/Journal/9047483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047483> <http://somewhere/Journal/name> "Security and Communication Networks" .
+<http://somewhere/Journal/9047658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047658> <http://somewhere/Journal/name> "IET Information Security" .
+<http://somewhere/Journal/9048135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048135> <http://somewhere/Journal/name> "IEEE Computer Graphics and Applications" .
+<http://somewhere/Journal/9047879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047879> <http://somewhere/Journal/name> "Systems Engineering" .
+<http://somewhere/Journal/9047626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047626> <http://somewhere/Journal/name> "Int. J. IT Standards and Standardization Res." .
+<http://somewhere/Journal/9048181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048181> <http://somewhere/Journal/name> "Pattern Recognition" .
+<http://somewhere/Journal/9048103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048103> <http://somewhere/Journal/name> "Experimental Mathematics" .
+<http://somewhere/Journal/9047672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047672> <http://somewhere/Journal/name> "IJAEC" .
+<http://somewhere/Journal/9047847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047847> <http://somewhere/Journal/name> "Decision Sciences" .
+<http://somewhere/Journal/9047893> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047893> <http://somewhere/Journal/name> "Wirtschaftsinformatik" .
+<http://somewhere/Journal/9047640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047640> <http://somewhere/Journal/name> "J. Intelligent Manufacturing" .
+<http://somewhere/Journal/9048079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048079> <http://somewhere/Journal/name> "ACM Trans. Embedded Comput. Syst." .
+<http://somewhere/Journal/9047815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047815> <http://somewhere/Journal/name> "Business & Information Systems Engineering" .
+<http://somewhere/Journal/9047861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047861> <http://somewhere/Journal/name> "Auton. Robots" .
+<http://somewhere/Journal/9048047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048047> <http://somewhere/Journal/name> "IEEE Wireless Commun." .
+<http://somewhere/Journal/9047538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047538> <http://somewhere/Journal/name> "IBM Journal of Research and Development" .
+<http://somewhere/Journal/9048093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048093> <http://somewhere/Journal/name> "Autom. Softw. Eng." .
+<http://somewhere/Journal/9048268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048268> <http://somewhere/Journal/name> "IWBS Report" .
+<http://somewhere/Journal/9048015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048015> <http://somewhere/Journal/name> "Information Visualization" .
+<http://somewhere/Journal/9047584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047584> <http://somewhere/Journal/name> "Inform." .
+<http://somewhere/Journal/9047759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047759> <http://somewhere/Journal/name> "IJCNIS" .
+<http://somewhere/Journal/9047506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047506> <http://somewhere/Journal/name> "Formalized Mathematics" .
+<http://somewhere/Journal/9048061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048061> <http://somewhere/Journal/name> "Int. J. Biomedical Imaging" .
+<http://somewhere/Journal/9048236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048236> <http://somewhere/Journal/name> "Production Engineering" .
+<http://somewhere/Journal/9047552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047552> <http://somewhere/Journal/name> "Computers in Entertainment" .
+<http://somewhere/Journal/9047727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047727> <http://somewhere/Journal/name> "Technique et Science Informatiques" .
+<http://somewhere/Journal/9048204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048204> <http://somewhere/Journal/name> "IET Signal Processing" .
+<http://somewhere/Journal/9047773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047773> <http://somewhere/Journal/name> "Computer Architecture Letters" .
+<http://somewhere/Journal/9047520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047520> <http://somewhere/Journal/name> "EAI Endorsed Trans. Creative Technologies" .
+<http://somewhere/Journal/9047948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047948> <http://somewhere/Journal/name> "Bio-Algorithms and Med-Systems" .
+<http://somewhere/Journal/9048250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048250> <http://somewhere/Journal/name> "Rundbrief der GI-Fachgruppe 5.10 Informationssystem-Architekturen" .
+<http://somewhere/Journal/9047994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047994> <http://somewhere/Journal/name> "EAI Endorsed Trans. Context-aware Syst. & Appl." .
+<http://somewhere/Journal/9047741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047741> <http://somewhere/Journal/name> "IJEH" .
+<http://somewhere/Journal/9047916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047916> <http://somewhere/Journal/name> "J. Vis. Lang. Comput." .
+<http://somewhere/Journal/9047496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047496> <http://somewhere/Journal/name> "IJOSSP" .
+<http://somewhere/Journal/9047962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047962> <http://somewhere/Journal/name> "Multiscale Modeling & Simulation" .
+<http://somewhere/Journal/9048148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048148> <http://somewhere/Journal/name> "TOMPECS" .
+<http://somewhere/Journal/9047464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047464> <http://somewhere/Journal/name> "Mechatronic Systems and Control" .
+<http://somewhere/Journal/9047639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047639> <http://somewhere/Journal/name> "IJRAT" .
+<http://somewhere/Journal/9048194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048194> <http://somewhere/Journal/name> "IJITBAG" .
+<http://somewhere/Journal/9047930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047930> <http://somewhere/Journal/name> "Adv. Artificial Neural Systems" .
+<http://somewhere/Journal/9048116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048116> <http://somewhere/Journal/name> "IJCNDS" .
+<http://somewhere/Journal/9047685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047685> <http://somewhere/Journal/name> "J. Complex Networks" .
+<http://somewhere/Journal/9047607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047607> <http://somewhere/Journal/name> "Probl. Inf. Transm." .
+<http://somewhere/Journal/9048162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048162> <http://somewhere/Journal/name> "Trans. Emerging Telecommunications Technologies" .
+<http://somewhere/Journal/9047653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047653> <http://somewhere/Journal/name> "Intell. Data Anal." .
+<http://somewhere/Journal/9047828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047828> <http://somewhere/Journal/name> "IJDC" .
+<http://somewhere/Journal/9048130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048130> <http://somewhere/Journal/name> "Inf. Syst. E-Business Management" .
+<http://somewhere/Journal/9047874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047874> <http://somewhere/Journal/name> "IJEBM" .
+<http://somewhere/Journal/9047621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047621> <http://somewhere/Journal/name> "InformingSciJ" .
+<http://somewhere/Journal/9047842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047842> <http://somewhere/Journal/name> "J. Big Data" .
+<http://somewhere/Journal/9048028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048028> <http://somewhere/Journal/name> "Computer Speech & Language" .
+<http://somewhere/Journal/9047597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047597> <http://somewhere/Journal/name> "IJLT" .
+<http://somewhere/Journal/9047519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047519> <http://somewhere/Journal/name> "IJRIS" .
+<http://somewhere/Journal/9048074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048074> <http://somewhere/Journal/name> "Open Syst. Inform. Dynam." .
+<http://somewhere/Journal/9047810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047810> <http://somewhere/Journal/name> "IJRSDA" .
+<http://somewhere/Journal/9048249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048249> <http://somewhere/Journal/name> "J. Prog. Lang." .
+<http://somewhere/Journal/9047565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047565> <http://somewhere/Journal/name> "Archive of Formal Proofs" .
+<http://somewhere/Journal/9048042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048042> <http://somewhere/Journal/name> "JNC" .
+<http://somewhere/Journal/9048217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048217> <http://somewhere/Journal/name> "ACM Trans. Internet Techn." .
+<http://somewhere/Journal/9047786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047786> <http://somewhere/Journal/name> "iJAC" .
+<http://somewhere/Journal/9047533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047533> <http://somewhere/Journal/name> "First Monday" .
+<http://somewhere/Journal/9047708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047708> <http://somewhere/Journal/name> "Digital Signal Processing" .
+<http://somewhere/Journal/9048263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048263> <http://somewhere/Journal/name> "Hydrology and Earth System Sciences" .
+<http://somewhere/Journal/9048010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048010> <http://somewhere/Journal/name> "IEEE Technol. Soc. Mag." .
+<http://somewhere/Journal/9047754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047754> <http://somewhere/Journal/name> "EAI Endorsed Trans. Cloud Systems" .
+<http://somewhere/Journal/9047501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047501> <http://somewhere/Journal/name> "Adv. in Math. of Comm." .
+<http://somewhere/Journal/9047929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047929> <http://somewhere/Journal/name> "IET Circuits" .
+<http://somewhere/Journal/9048231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048231> <http://somewhere/Journal/name> "IJABIM" .
+<http://somewhere/Journal/9047975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047975> <http://somewhere/Journal/name> "Intelligenza Artificiale" .
+<http://somewhere/Journal/9047722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047722> <http://somewhere/Journal/name> "IJCALLT" .
+<http://somewhere/Journal/9047477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047477> <http://somewhere/Journal/name> "IRMJ" .
+<http://somewhere/Journal/9047943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047943> <http://somewhere/Journal/name> "Automatic Control and Computer Sciences" .
+<http://somewhere/Journal/9048129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048129> <http://somewhere/Journal/name> "Order" .
+<http://somewhere/Journal/9047698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047698> <http://somewhere/Journal/name> "Applied Artificial Intelligence" .
+<http://somewhere/Journal/9048175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048175> <http://somewhere/Journal/name> "J. Economic Theory" .
+<http://somewhere/Journal/9047911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047911> <http://somewhere/Journal/name> "IJSEUS" .
+<http://somewhere/Journal/9047491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047491> <http://somewhere/Journal/name> "IJMHeur" .
+<http://somewhere/Journal/9047666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047666> <http://somewhere/Journal/name> "Science Robotics" .
+<http://somewhere/Journal/9048143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048143> <http://somewhere/Journal/name> "Language Resources and Evaluation" .
+<http://somewhere/Journal/9047887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047887> <http://somewhere/Journal/name> "IEEE/ACM Trans. Comput. Biology Bioinform." .
+<http://somewhere/Journal/9047634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047634> <http://somewhere/Journal/name> "J. Reliable Intelligent Environments" .
+<http://somewhere/Journal/9047809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047809> <http://somewhere/Journal/name> "IEEE Trans. Comput. Social Systems" .
+<http://somewhere/Journal/9048111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048111> <http://somewhere/Journal/name> "BIT" .
+<http://somewhere/Journal/9047680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047680> <http://somewhere/Journal/name> "IMPACT Comput. Sci. Eng." .
+<http://somewhere/Journal/9047855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047855> <http://somewhere/Journal/name> "J. Solid-State Circuits" .
+<http://somewhere/Journal/9047602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047602> <http://somewhere/Journal/name> "IEEE Intelligent Systems" .
+<http://somewhere/Journal/9048087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048087> <http://somewhere/Journal/name> "I. J. Circuit Theory and Applications" .
+<http://somewhere/Journal/9047823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047823> <http://somewhere/Journal/name> "Public Library Quarterly" .
+<http://somewhere/Journal/9048009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048009> <http://somewhere/Journal/name> "Des. Codes Cryptography" .
+<http://somewhere/Journal/9047578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047578> <http://somewhere/Journal/name> "JDIM" .
+<http://somewhere/Journal/9048055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048055> <http://somewhere/Journal/name> "Digital Investigation" .
+<http://somewhere/Journal/9047799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047799> <http://somewhere/Journal/name> "Adaptive Behaviour" .
+<http://somewhere/Journal/9047546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047546> <http://somewhere/Journal/name> "J. Artificial General Intelligence" .
+<http://somewhere/Journal/9048276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048276> <http://somewhere/Journal/name> "ANSI X3H2" .
+<http://somewhere/Journal/9048023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048023> <http://somewhere/Journal/name> "Computer Communication Review" .
+<http://somewhere/Journal/9047592> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047592> <http://somewhere/Journal/name> "Neural Processing Letters" .
+<http://somewhere/Journal/9047767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047767> <http://somewhere/Journal/name> "IJOPCD" .
+<http://somewhere/Journal/9047514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047514> <http://somewhere/Journal/name> "IJMLO" .
+<http://somewhere/Journal/9048244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048244> <http://somewhere/Journal/name> "Int. J. Semantic Computing" .
+<http://somewhere/Journal/9047560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047560> <http://somewhere/Journal/name> "MIS Quarterly" .
+<http://somewhere/Journal/9047988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047988> <http://somewhere/Journal/name> "Central Europ. J. Computer Science" .
+<http://somewhere/Journal/9047735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047735> <http://somewhere/Journal/name> "Real-Time Imaging" .
+<http://somewhere/Journal/9048212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048212> <http://somewhere/Journal/name> "ACM Trans. Asian & Low-Resource Lang. Inf. Process." .
+<http://somewhere/Journal/9047781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047781> <http://somewhere/Journal/name> "IJSSS" .
+<http://somewhere/Journal/9047956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047956> <http://somewhere/Journal/name> "VLSI Signal Processing" .
+<http://somewhere/Journal/9047703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047703> <http://somewhere/Journal/name> "Applied Ontology" .
+<http://somewhere/Journal/9047458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047458> <http://somewhere/Journal/name> "IJQAETE" .
+<http://somewhere/Journal/9048188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048188> <http://somewhere/Journal/name> "Foundations and Trends in Networking" .
+<http://somewhere/Journal/9047924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047924> <http://somewhere/Journal/name> "Kybernetes" .
+<http://somewhere/Journal/9047679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047679> <http://somewhere/Journal/name> "IJCEE" .
+<http://somewhere/Journal/9047970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047970> <http://somewhere/Journal/name> "BJET" .
+<http://somewhere/Journal/9048156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048156> <http://somewhere/Journal/name> "SIGARCH Computer Architecture News" .
+<http://somewhere/Journal/9047472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047472> <http://somewhere/Journal/name> "J. Comm. Inform. Networks" .
+<http://somewhere/Journal/9047647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047647> <http://somewhere/Journal/name> "Int. J. Comput. Proc. Oriental Lang." .
+<http://somewhere/Journal/9048124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048124> <http://somewhere/Journal/name> "Mach. Vis. Appl." .
+<http://somewhere/Journal/9047693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047693> <http://somewhere/Journal/name> "Revue Internationale de Gomatique" .
+<http://somewhere/Journal/9047868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047868> <http://somewhere/Journal/name> "Genomics" .
+<http://somewhere/Journal/9047615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047615> <http://somewhere/Journal/name> "Informatica (Slovenia)" .
+<http://somewhere/Journal/9048170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048170> <http://somewhere/Journal/name> "iJES" .
+<http://somewhere/Journal/9047661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047661> <http://somewhere/Journal/name> "STTT" .
+<http://somewhere/Journal/9047836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047836> <http://somewhere/Journal/name> "International Journal of Parallel Programming" .
+<http://somewhere/Journal/9047882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047882> <http://somewhere/Journal/name> "IJCSM" .
+<http://somewhere/Journal/9047804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047804> <http://somewhere/Journal/name> "Briefings in Bioinformatics" .
+<http://somewhere/Journal/9048068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048068> <http://somewhere/Journal/name> "J. Electronic Testing" .
+<http://somewhere/Journal/9047559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047559> <http://somewhere/Journal/name> "J. Quantum Information Science" .
+<http://somewhere/Journal/9047850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047850> <http://somewhere/Journal/name> "Parallel Computing" .
+<http://somewhere/Journal/9048036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048036> <http://somewhere/Journal/name> "Combinatorics" .
+<http://somewhere/Journal/9047527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047527> <http://somewhere/Journal/name> "J. Computational Applied Mathematics" .
+<http://somewhere/Journal/9048082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048082> <http://somewhere/Journal/name> "Data Quality Journal" .
+<http://somewhere/Journal/9048257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048257> <http://somewhere/Journal/name> "Computers" .
+<http://somewhere/Journal/9048004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048004> <http://somewhere/Journal/name> "International Journal of Computational Intelligence and Applications" .
+<http://somewhere/Journal/9047573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047573> <http://somewhere/Journal/name> "Real-Time Systems" .
+<http://somewhere/Journal/9047748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047748> <http://somewhere/Journal/name> "J. Community Informatics" .
+<http://somewhere/Journal/9048050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048050> <http://somewhere/Journal/name> "J. Applied Probability" .
+<http://somewhere/Journal/9048225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048225> <http://somewhere/Journal/name> "IJEIS" .
+<http://somewhere/Journal/9047794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047794> <http://somewhere/Journal/name> "Software Quality Journal" .
+<http://somewhere/Journal/9047541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047541> <http://somewhere/Journal/name> "IEEE Trans. Audio" .
+<http://somewhere/Journal/9047969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047969> <http://somewhere/Journal/name> "Datenbank Rundbrief" .
+<http://somewhere/Journal/9047716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047716> <http://somewhere/Journal/name> "Knowl. Inf. Syst." .
+<http://somewhere/Journal/9048271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048271> <http://somewhere/Journal/name> "IBM Publication" .
+<http://somewhere/Journal/9047762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047762> <http://somewhere/Journal/name> "IET Image Processing" .
+<http://somewhere/Journal/9047937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047937> <http://somewhere/Journal/name> "Nord. J. Comput." .
+<http://somewhere/Journal/9047983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047983> <http://somewhere/Journal/name> "Security Informatics" .
+<http://somewhere/Journal/9047730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047730> <http://somewhere/Journal/name> "Comp. and Biomed. Research" .
+<http://somewhere/Journal/9048169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048169> <http://somewhere/Journal/name> "it+ti - Informationstechnik und Technische Informatik" .
+<http://somewhere/Journal/9047905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047905> <http://somewhere/Journal/name> "J. Digital Forensic Practice" .
+<http://somewhere/Journal/9047485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047485> <http://somewhere/Journal/name> "Applied Mathematics and Computer Science" .
+<http://somewhere/Journal/9047951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047951> <http://somewhere/Journal/name> "Program" .
+<http://somewhere/Journal/9048137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048137> <http://somewhere/Journal/name> "Reports on Mathematical Logic" .
+<http://somewhere/Journal/9047453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047453> <http://somewhere/Journal/name> "Computational Biology and Chemistry" .
+<http://somewhere/Journal/9047628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047628> <http://somewhere/Journal/name> "IJCIStudies" .
+<http://somewhere/Journal/9048183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048183> <http://somewhere/Journal/name> "J. Comb. Theory" .
+<http://somewhere/Journal/9048105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048105> <http://somewhere/Journal/name> "J. Software Eng. R&D" .
+<http://somewhere/Journal/9047674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047674> <http://somewhere/Journal/name> "IEEE Trans. Comput. Intellig. and AI in Games" .
+<http://somewhere/Journal/9047849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047849> <http://somewhere/Journal/name> "Int. J. Math. Mathematical Sciences" .
+<http://somewhere/Journal/9048151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048151> <http://somewhere/Journal/name> "IJIIDS" .
+<http://somewhere/Journal/9047895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047895> <http://somewhere/Journal/name> "IJISMD" .
+<http://somewhere/Journal/9047642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047642> <http://somewhere/Journal/name> "J. Mobile Multimedia" .
+<http://somewhere/Journal/9047817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047817> <http://somewhere/Journal/name> "Information Economics and Policy" .
+<http://somewhere/Journal/9047863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047863> <http://somewhere/Journal/name> "Electr. J. Comb." .
+<http://somewhere/Journal/9047610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047610> <http://somewhere/Journal/name> "The New Review of Hypermedia and Multimedia" .
+<http://somewhere/Journal/9048049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048049> <http://somewhere/Journal/name> "IJSE" .
+<http://somewhere/Journal/9048095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048095> <http://somewhere/Journal/name> "Int. J. Imaging Systems and Technology" .
+<http://somewhere/Journal/9047831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047831> <http://somewhere/Journal/name> "SIGLOG News" .
+<http://somewhere/Journal/9048017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048017> <http://somewhere/Journal/name> "IJWIN" .
+<http://somewhere/Journal/9047586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047586> <http://somewhere/Journal/name> "IJWIS" .
+<http://somewhere/Journal/9047508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047508> <http://somewhere/Journal/name> "IJAPR" .
+<http://somewhere/Journal/9048063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048063> <http://somewhere/Journal/name> "IJATS" .
+<http://somewhere/Journal/9048238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048238> <http://somewhere/Journal/name> "J. Electronic Imaging" .
+<http://somewhere/Journal/9047554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047554> <http://somewhere/Journal/name> "ISPRS Int. J. Geo-Information" .
+<http://somewhere/Journal/9047729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047729> <http://somewhere/Journal/name> "Journal of Biomedical Informatics" .
+<http://somewhere/Journal/9048031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048031> <http://somewhere/Journal/name> "Quantum Information & Computation" .
+<http://somewhere/Journal/9048206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048206> <http://somewhere/Journal/name> "J. of Management Information Systems" .
+<http://somewhere/Journal/9047775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047775> <http://somewhere/Journal/name> "IJIMAI" .
+<http://somewhere/Journal/9047522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047522> <http://somewhere/Journal/name> "IEEE Trans. Evolutionary Computation" .
+<http://somewhere/Journal/9048252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048252> <http://somewhere/Journal/name> "ISSE" .
+<http://somewhere/Journal/9047996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047996> <http://somewhere/Journal/name> "Comput. Syst. Sci. Eng." .
+<http://somewhere/Journal/9047743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047743> <http://somewhere/Journal/name> "Information" .
+<http://somewhere/Journal/9047918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047918> <http://somewhere/Journal/name> "IEEE Computer" .
+<http://somewhere/Journal/9047498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047498> <http://somewhere/Journal/name> "IJISCM" .
+<http://somewhere/Journal/9048220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048220> <http://somewhere/Journal/name> "Mobile Computing and Communications Review" .
+<http://somewhere/Journal/9047964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047964> <http://somewhere/Journal/name> "J. Network Syst. Manage." .
+<http://somewhere/Journal/9047711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047711> <http://somewhere/Journal/name> "Neural Networks" .
+<http://somewhere/Journal/9047466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047466> <http://somewhere/Journal/name> "ACM SIGMOD Digital Symposium Collection" .
+<http://somewhere/Journal/9048196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048196> <http://somewhere/Journal/name> "ACM SIGSOFT Software Engineering Notes" .
+<http://somewhere/Journal/9047932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047932> <http://somewhere/Journal/name> "Algorithmic Finance" .
+<http://somewhere/Journal/9048118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048118> <http://somewhere/Journal/name> "Paladyn" .
+<http://somewhere/Journal/9047687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047687> <http://somewhere/Journal/name> "Int. J. Auton. Comp." .
+<http://somewhere/Journal/9047609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047609> <http://somewhere/Journal/name> "IJISCRAM" .
+<http://somewhere/Journal/9048164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048164> <http://somewhere/Journal/name> "ACM Trans. Graph." .
+<http://somewhere/Journal/9047900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047900> <http://somewhere/Journal/name> "INFOR" .
+<http://somewhere/Journal/9047480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047480> <http://somewhere/Journal/name> "Journal of Software Maintenance" .
+<http://somewhere/Journal/9047655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047655> <http://somewhere/Journal/name> "IJBIR" .
+<http://somewhere/Journal/9048132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048132> <http://somewhere/Journal/name> "Internet Mathematics" .
+<http://somewhere/Journal/9047876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047876> <http://somewhere/Journal/name> "Journal of Automata" .
+<http://somewhere/Journal/9047623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047623> <http://somewhere/Journal/name> "D&D" .
+<http://somewhere/Journal/9048100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048100> <http://somewhere/Journal/name> "Advances in Computing Research" .
+<http://somewhere/Journal/9047844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047844> <http://somewhere/Journal/name> "Elektronische Informationsverarbeitung und Kybernetik" .
+<http://somewhere/Journal/9047599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047599> <http://somewhere/Journal/name> "Service Oriented Computing and Applications" .
+<http://somewhere/Journal/9047890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047890> <http://somewhere/Journal/name> "Sig. Proc. Image Comm." .
+<http://somewhere/Journal/9048076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048076> <http://somewhere/Journal/name> "Numerical Algorithms" .
+<http://somewhere/Journal/9047812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047812> <http://somewhere/Journal/name> "I. J. Law and Information Technology" .
+<http://somewhere/Journal/9047567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047567> <http://somewhere/Journal/name> "Schedae Informaticae" .
+<http://somewhere/Journal/9048044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048044> <http://somewhere/Journal/name> "Theor. Comput. Sci." .
+<http://somewhere/Journal/9048219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048219> <http://somewhere/Journal/name> "European Journal of Law and Technology" .
+<http://somewhere/Journal/9047788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047788> <http://somewhere/Journal/name> "Inf. Process. Manage." .
+<http://somewhere/Journal/9047535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047535> <http://somewhere/Journal/name> "EAI Endorsed Trans. Future Intellig. Educat. Env." .
+<http://somewhere/Journal/9048090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048090> <http://somewhere/Journal/name> "Cyberpsy." .
+<http://somewhere/Journal/9048265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048265> <http://somewhere/Journal/name> "technical Report 248" .
+<http://somewhere/Journal/9047581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047581> <http://somewhere/Journal/name> "Memetic Computing" .
+<http://somewhere/Journal/9048012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048012> <http://somewhere/Journal/name> "IJCAT" .
+<http://somewhere/Journal/9047756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047756> <http://somewhere/Journal/name> "J. Open Source Software" .
+<http://somewhere/Journal/9047503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047503> <http://somewhere/Journal/name> "JITE" .
+<http://somewhere/Journal/9048233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048233> <http://somewhere/Journal/name> "IEEE Trans. Robotics" .
+<http://somewhere/Journal/9047977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047977> <http://somewhere/Journal/name> "Trans. Mass-Data Analysis of Images and Signals" .
+<http://somewhere/Journal/9047724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047724> <http://somewhere/Journal/name> "IJART" .
+<http://somewhere/Journal/9047479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047479> <http://somewhere/Journal/name> "Journal of Software Evolution and Process" .
+<http://somewhere/Journal/9048201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048201> <http://somewhere/Journal/name> "ACM Trans. Management Inf. Syst." .
+<http://somewhere/Journal/9047770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047770> <http://somewhere/Journal/name> "CLEI Electron. J." .
+<http://somewhere/Journal/9047945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047945> <http://somewhere/Journal/name> "IEEE Trans. Pattern Anal. Mach. Intell." .
+<http://somewhere/Journal/9047991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047991> <http://somewhere/Journal/name> "Social Netw. Analys. Mining" .
+<http://somewhere/Journal/9048177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048177> <http://somewhere/Journal/name> "IJRFITA" .
+<http://somewhere/Journal/9047913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047913> <http://somewhere/Journal/name> "J. Systems & Control Engineering" .
+<http://somewhere/Journal/9047493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047493> <http://somewhere/Journal/name> "IEEE Trans. Emerging Topics Comput." .
+<http://somewhere/Journal/9047668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047668> <http://somewhere/Journal/name> "IJBDCN" .
+<http://somewhere/Journal/9048145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048145> <http://somewhere/Journal/name> "Automation and Remote Control" .
+<http://somewhere/Journal/9047461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047461> <http://somewhere/Journal/name> "J. Web Semant." .
+<http://somewhere/Journal/9047889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047889> <http://somewhere/Journal/name> "IJIMR" .
+<http://somewhere/Journal/9047636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047636> <http://somewhere/Journal/name> "J. Graphics" .
+<http://somewhere/Journal/9048191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048191> <http://somewhere/Journal/name> "DATA BASE" .
+<http://somewhere/Journal/9048113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048113> <http://somewhere/Journal/name> "History and Computing" .
+<http://somewhere/Journal/9047682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047682> <http://somewhere/Journal/name> "IJORIS" .
+<http://somewhere/Journal/9047857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047857> <http://somewhere/Journal/name> "J. Comp. Assisted Learning" .
+<http://somewhere/Journal/9047604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047604> <http://somewhere/Journal/name> "IJSNet" .
+<http://somewhere/Journal/9047650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047650> <http://somewhere/Journal/name> "Comput. J." .
+<http://somewhere/Journal/9048089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048089> <http://somewhere/Journal/name> "Data Science Journal" .
+<http://somewhere/Journal/9047825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047825> <http://somewhere/Journal/name> "AStA Wirtschafts- und Sozialstatistisches Archiv" .
+<http://somewhere/Journal/9047871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047871> <http://somewhere/Journal/name> "Source Code for Biology and Medicine" .
+<http://somewhere/Journal/9048057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048057> <http://somewhere/Journal/name> "Embedded Systems Letters" .
+<http://somewhere/Journal/9047548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047548> <http://somewhere/Journal/name> "J. AIS" .
+<http://somewhere/Journal/9047594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047594> <http://somewhere/Journal/name> "Int. J. Web Service Res." .
+<http://somewhere/Journal/9048025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048025> <http://somewhere/Journal/name> "IET Computer Vision" .
+<http://somewhere/Journal/9047769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047769> <http://somewhere/Journal/name> "J. London Math. Society" .
+<http://somewhere/Journal/9047516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047516> <http://somewhere/Journal/name> "J. Computational Design and Engineering" .
+<http://somewhere/Journal/9048071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048071> <http://somewhere/Journal/name> "J. Systems and IT" .
+<http://somewhere/Journal/9048246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048246> <http://somewhere/Journal/name> "Vietnam J. Computer Science" .
+<http://somewhere/Journal/9047562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047562> <http://somewhere/Journal/name> "IEEE Trans. Control of Network Systems" .
+<http://somewhere/Journal/9047737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047737> <http://somewhere/Journal/name> "Int. J. Applied Earth Observation and Geoinformation" .
+<http://somewhere/Journal/9048214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048214> <http://somewhere/Journal/name> "Pervasive and Mobile Computing" .
+<http://somewhere/Journal/9047783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047783> <http://somewhere/Journal/name> "International Journal of Shape Modeling" .
+<http://somewhere/Journal/9047530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047530> <http://somewhere/Journal/name> "J. Innovation in Digital Ecosystems" .
+<http://somewhere/Journal/9047958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047958> <http://somewhere/Journal/name> "Appl. Comput. Syst." .
+<http://somewhere/Journal/9047705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047705> <http://somewhere/Journal/name> "Computers & Security" .
+<http://somewhere/Journal/9048260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048260> <http://somewhere/Journal/name> "IBM Research Report" .
+<http://somewhere/Journal/9047751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047751> <http://somewhere/Journal/name> "IEEE Trans. Services Computing" .
+<http://somewhere/Journal/9047926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047926> <http://somewhere/Journal/name> "Journal of Chinese Language and Computing" .
+<http://somewhere/Journal/9047972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047972> <http://somewhere/Journal/name> "Adv. Bioinformatics" .
+<http://somewhere/Journal/9048158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048158> <http://somewhere/Journal/name> "J. Num. Math." .
+<http://somewhere/Journal/9047474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047474> <http://somewhere/Journal/name> "EAI Endorsed Trans. Security Safety" .
+<http://somewhere/Journal/9047649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047649> <http://somewhere/Journal/name> "JIDM" .
+<http://somewhere/Journal/9047940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047940> <http://somewhere/Journal/name> "Scalable Computing Practice and Experience" .
+<http://somewhere/Journal/9048126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048126> <http://somewhere/Journal/name> "Journal of Visualization and Computer Animation" .
+<http://somewhere/Journal/9047695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047695> <http://somewhere/Journal/name> "Foundations and Trends in Theoretical Computer Science" .
+<http://somewhere/Journal/9047617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047617> <http://somewhere/Journal/name> "Archives and Museum Informatics" .
+<http://somewhere/Journal/9048172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048172> <http://somewhere/Journal/name> "JCP" .
+<http://somewhere/Journal/9047663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047663> <http://somewhere/Journal/name> "BioData Mining" .
+<http://somewhere/Journal/9047838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047838> <http://somewhere/Journal/name> "J. Comput. Meth. in Science and Engineering" .
+<http://somewhere/Journal/9048140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048140> <http://somewhere/Journal/name> "Informatik Spektrum" .
+<http://somewhere/Journal/9047884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047884> <http://somewhere/Journal/name> "Int. J. Intell. Syst." .
+<http://somewhere/Journal/9047631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047631> <http://somewhere/Journal/name> "Bioinformatics [ISMB]" .
+<http://somewhere/Journal/9047806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047806> <http://somewhere/Journal/name> "L'OBJET" .
+<http://somewhere/Journal/9047852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047852> <http://somewhere/Journal/name> "TOPC" .
+<http://somewhere/Journal/9048038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048038> <http://somewhere/Journal/name> "Manufacturing & Service Operations Management" .
+<http://somewhere/Journal/9047529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047529> <http://somewhere/Journal/name> "TACCESS" .
+<http://somewhere/Journal/9048084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048084> <http://somewhere/Journal/name> "Mechanical Translation" .
+<http://somewhere/Journal/9047820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047820> <http://somewhere/Journal/name> "Praxis der Informationsverarbeitung und Kommunikation" .
+<http://somewhere/Journal/9048259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048259> <http://somewhere/Journal/name> "Int. J. Hum.-Comput. Stud." .
+<http://somewhere/Journal/9047575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047575> <http://somewhere/Journal/name> "Communication Research" .
+<http://somewhere/Journal/9048006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048006> <http://somewhere/Journal/name> "Signal" .
+<http://somewhere/Journal/9048052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048052> <http://somewhere/Journal/name> "JAISE" .
+<http://somewhere/Journal/9048227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048227> <http://somewhere/Journal/name> "Queueing Syst." .
+<http://somewhere/Journal/9047796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047796> <http://somewhere/Journal/name> "IJIDSS" .
+<http://somewhere/Journal/9047543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047543> <http://somewhere/Journal/name> "IJKEDM" .
+<http://somewhere/Journal/9047718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047718> <http://somewhere/Journal/name> "Pattern Recognition Letters" .
+<http://somewhere/Journal/9048273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048273> <http://somewhere/Journal/name> "Universitt Trier" .
+<http://somewhere/Journal/9048020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048020> <http://somewhere/Journal/name> "J. Log. Program." .
+<http://somewhere/Journal/9047764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047764> <http://somewhere/Journal/name> "Journal of Chemical Information and Computer Sciences" .
+<http://somewhere/Journal/9047511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047511> <http://somewhere/Journal/name> "Digital Creativity" .
+<http://somewhere/Journal/9047939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047939> <http://somewhere/Journal/name> "Database" .
+<http://somewhere/Journal/9048241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048241> <http://somewhere/Journal/name> "T-MBMC" .
+<http://somewhere/Journal/9047985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047985> <http://somewhere/Journal/name> "Comput. Graph. Forum" .
+<http://somewhere/Journal/9047732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047732> <http://somewhere/Journal/name> "IEEE P&DT" .
+<http://somewhere/Journal/9047907> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047907> <http://somewhere/Journal/name> "EURASIP J. Image and Video Processing" .
+<http://somewhere/Journal/9047487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047487> <http://somewhere/Journal/name> "The Computer Science Journal of Moldova" .
+<http://somewhere/Journal/9047953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047953> <http://somewhere/Journal/name> "Applied Network Science" .
+<http://somewhere/Journal/9047700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047700> <http://somewhere/Journal/name> "Informatica" .
+<http://somewhere/Journal/9048139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048139> <http://somewhere/Journal/name> "Arch. Math. Log." .
+<http://somewhere/Journal/9047455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047455> <http://somewhere/Journal/name> "IJEGR" .
+<http://somewhere/Journal/9048185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048185> <http://somewhere/Journal/name> "Cognition" .
+<http://somewhere/Journal/9047921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047921> <http://somewhere/Journal/name> "Microprocessors and Microsystems" .
+<http://somewhere/Journal/9048107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048107> <http://somewhere/Journal/name> "Acta Cybern." .
+<http://somewhere/Journal/9047676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047676> <http://somewhere/Journal/name> "Transportation Science" .
+<http://somewhere/Journal/9048153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048153> <http://somewhere/Journal/name> "Aslib J. Inf. Manag." .
+<http://somewhere/Journal/9047897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047897> <http://somewhere/Journal/name> "Digital Humanities Quarterly" .
+<http://somewhere/Journal/9047644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047644> <http://somewhere/Journal/name> "EPJ Data Sci." .
+<http://somewhere/Journal/9047819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047819> <http://somewhere/Journal/name> "IJCrC" .
+<http://somewhere/Journal/9048121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048121> <http://somewhere/Journal/name> "J. Intellig. Transport. Systems" .
+<http://somewhere/Journal/9047690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047690> <http://somewhere/Journal/name> "EAI Endorsed Trans. Energy Web" .
+<http://somewhere/Journal/9047865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047865> <http://somewhere/Journal/name> "IJAL" .
+<http://somewhere/Journal/9047612> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047612> <http://somewhere/Journal/name> "Communications and Network" .
+<http://somewhere/Journal/9048097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048097> <http://somewhere/Journal/name> "IJCSE" .
+<http://somewhere/Journal/9047833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047833> <http://somewhere/Journal/name> "Intelligent Information Management" .
+<http://somewhere/Journal/9047588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047588> <http://somewhere/Journal/name> "Symmetry" .
+<http://somewhere/Journal/9048019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048019> <http://somewhere/Journal/name> "HMD - Praxis Wirtschaftsinform." .
+<http://somewhere/Journal/9047801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047801> <http://somewhere/Journal/name> "Concurrent Engineering R&A" .
+<http://somewhere/Journal/9048065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048065> <http://somewhere/Journal/name> "PACMHCI" .
+<http://somewhere/Journal/9047556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047556> <http://somewhere/Journal/name> "DSH" .
+<http://somewhere/Journal/9048033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048033> <http://somewhere/Journal/name> "TGCN" .
+<http://somewhere/Journal/9048208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048208> <http://somewhere/Journal/name> "SIGecom Exchanges" .
+<http://somewhere/Journal/9047777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047777> <http://somewhere/Journal/name> "Information Security Journal A Global Perspective" .
+<http://somewhere/Journal/9047524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047524> <http://somewhere/Journal/name> "IEEE Intelligent Informatics Bulletin" .
+<http://somewhere/Journal/9048254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048254> <http://somewhere/Journal/name> "ACM Journal of Computer Documentation" .
+<http://somewhere/Journal/9047570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047570> <http://somewhere/Journal/name> "Grey Systems T&A" .
+<http://somewhere/Journal/9048001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048001> <http://somewhere/Journal/name> "Foundations and Trends in Systems and Control" .
+<http://somewhere/Journal/9047998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047998> <http://somewhere/Journal/name> "Entropy" .
+<http://somewhere/Journal/9047745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047745> <http://somewhere/Journal/name> "RAIRO - Operations Research" .
+<http://somewhere/Journal/9048222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048222> <http://somewhere/Journal/name> "SIAM J. Comput." .
+<http://somewhere/Journal/9047791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047791> <http://somewhere/Journal/name> "IEEE Distributed Systems Online" .
+<http://somewhere/Journal/9047966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047966> <http://somewhere/Journal/name> "J. Clinical Bioinformatics" .
+<http://somewhere/Journal/9047713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047713> <http://somewhere/Journal/name> "IJSTM" .
+<http://somewhere/Journal/9047468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047468> <http://somewhere/Journal/name> "JSW" .
+<http://somewhere/Journal/9048198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048198> <http://somewhere/Journal/name> "Int. J. Comput. Linguistics Appl." .
+<http://somewhere/Journal/9047934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047934> <http://somewhere/Journal/name> "AI in Engineering" .
+<http://somewhere/Journal/9047689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047689> <http://somewhere/Journal/name> "J. Digit. Inf." .
+<http://somewhere/Journal/9047980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047980> <http://somewhere/Journal/name> "Foundations and Trends in Stochastic Systems" .
+<http://somewhere/Journal/9048166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048166> <http://somewhere/Journal/name> "it - Information Technology" .
+<http://somewhere/Journal/9047902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047902> <http://somewhere/Journal/name> "Science" .
+<http://somewhere/Journal/9047482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047482> <http://somewhere/Journal/name> "IJHPCN" .
+<http://somewhere/Journal/9047657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047657> <http://somewhere/Journal/name> "KI" .
+<http://somewhere/Journal/9048134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048134> <http://somewhere/Journal/name> "IEEE Trans. Vis. Comput. Graph." .
+<http://somewhere/Journal/9047878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047878> <http://somewhere/Journal/name> "LDV Forum" .
+<http://somewhere/Journal/9047625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047625> <http://somewhere/Journal/name> "IJAEIS" .
+<http://somewhere/Journal/9048180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048180> <http://somewhere/Journal/name> "IJDSST" .
+<http://somewhere/Journal/9048102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048102> <http://somewhere/Journal/name> "New Generation Comput." .
+<http://somewhere/Journal/9047671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047671> <http://somewhere/Journal/name> "Digital Technical Journal" .
+<http://somewhere/Journal/9047846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047846> <http://somewhere/Journal/name> "TPLP" .
+<http://somewhere/Journal/9047892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047892> <http://somewhere/Journal/name> "Trans. Data Hiding and Multimedia Security" .
+<http://somewhere/Journal/9048078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048078> <http://somewhere/Journal/name> "IET Communications" .
+<http://somewhere/Journal/9047814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047814> <http://somewhere/Journal/name> "Systems and Computers in Japan" .
+<http://somewhere/Journal/9047569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047569> <http://somewhere/Journal/name> "Trans. Large-Scale Data- and Knowledge-Centered Systems" .
+<http://somewhere/Journal/9047860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047860> <http://somewhere/Journal/name> "Journal of Applied Non-Classical Logics" .
+<http://somewhere/Journal/9048046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048046> <http://somewhere/Journal/name> "IEEE Personal Commun." .
+<http://somewhere/Journal/9047537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047537> <http://somewhere/Journal/name> "IEEE Intell. Transport. Syst. Mag." .
+<http://somewhere/Journal/9048092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048092> <http://somewhere/Journal/name> "NeuroImage" .
+<http://somewhere/Journal/9048267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048267> <http://somewhere/Journal/name> "Technical Report" .
+<http://somewhere/Journal/9047583> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047583> <http://somewhere/Journal/name> "Int. J. Computer Games Technology" .
+<http://somewhere/Journal/9048014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048014> <http://somewhere/Journal/name> "Ethics Inf. Technol." .
+<http://somewhere/Journal/9047758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047758> <http://somewhere/Journal/name> "Int. J. Intell. Games & Simulation" .
+<http://somewhere/Journal/9047505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047505> <http://somewhere/Journal/name> "IEEE Trans. Intelligent Transportation Systems" .
+<http://somewhere/Journal/9048060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048060> <http://somewhere/Journal/name> "ACM SIGMOD Anthology" .
+<http://somewhere/Journal/9048235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048235> <http://somewhere/Journal/name> "IEEE J. Robotics and Automation" .
+<http://somewhere/Journal/9047551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047551> <http://somewhere/Journal/name> "Trans. Modularity and Composition" .
+<http://somewhere/Journal/9047979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047979> <http://somewhere/Journal/name> "Traitement du Signal" .
+<http://somewhere/Journal/9047726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047726> <http://somewhere/Journal/name> "IJSHC" .
+<http://somewhere/Journal/9048203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048203> <http://somewhere/Journal/name> "Mathematical Social Sciences" .
+<http://somewhere/Journal/9047772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047772> <http://somewhere/Journal/name> "Integration" .
+<http://somewhere/Journal/9047947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047947> <http://somewhere/Journal/name> "IJSODIT" .
+<http://somewhere/Journal/9047993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047993> <http://somewhere/Journal/name> "ICGA Journal" .
+<http://somewhere/Journal/9047740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047740> <http://somewhere/Journal/name> "J. Applied Logic" .
+<http://somewhere/Journal/9048179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048179> <http://somewhere/Journal/name> "IJAGR" .
+<http://somewhere/Journal/9047915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047915> <http://somewhere/Journal/name> "ITC" .
+<http://somewhere/Journal/9047495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047495> <http://somewhere/Journal/name> "Finance and Stochastics" .
+<http://somewhere/Journal/9047961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047961> <http://somewhere/Journal/name> "IJCVR" .
+<http://somewhere/Journal/9048147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048147> <http://somewhere/Journal/name> "Appl. Soft Comput." .
+<http://somewhere/Journal/9047463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047463> <http://somewhere/Journal/name> "Front. Neuroinform." .
+<http://somewhere/Journal/9047638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047638> <http://somewhere/Journal/name> "Computational Complexity" .
+<http://somewhere/Journal/9048193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048193> <http://somewhere/Journal/name> "Applied Comp. Int. Soft Computing" .
+<http://somewhere/Journal/9048115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048115> <http://somewhere/Journal/name> "Comp. Applic. in Engineering Education" .
+<http://somewhere/Journal/9047684> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047684> <http://somewhere/Journal/name> "Acta Informatica Pragensia" .
+<http://somewhere/Journal/9047859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047859> <http://somewhere/Journal/name> "Biosystems" .
+<http://somewhere/Journal/9047606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047606> <http://somewhere/Journal/name> "Minds and Machines" .
+<http://somewhere/Journal/9048161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048161> <http://somewhere/Journal/name> "European Transactions on Telecommunications" .
+<http://somewhere/Journal/9047652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047652> <http://somewhere/Journal/name> "Communications in Statistics - Simulation and Computation" .
+<http://somewhere/Journal/9047827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047827> <http://somewhere/Journal/name> "I. J.  Computational Biology and Drug Design" .
+<http://somewhere/Journal/9047873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047873> <http://somewhere/Journal/name> "SIGBED Review" .
+<http://somewhere/Journal/9047620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047620> <http://somewhere/Journal/name> "J. Discrete Algorithms" .
+<http://somewhere/Journal/9048059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048059> <http://somewhere/Journal/name> "Journal of Functional and Logic Programming" .
+<http://somewhere/Journal/9047841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047841> <http://somewhere/Journal/name> "Control and Cybernetics" .
+<http://somewhere/Journal/9048027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048027> <http://somewhere/Journal/name> "Inf. Res." .
+<http://somewhere/Journal/9047596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047596> <http://somewhere/Journal/name> "IEEE Signal Process. Lett." .
+<http://somewhere/Journal/9047518> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047518> <http://somewhere/Journal/name> "Logic & Analysis" .
+<http://somewhere/Journal/9048073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048073> <http://somewhere/Journal/name> "NetMAHIB" .
+<http://somewhere/Journal/9048248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048248> <http://somewhere/Journal/name> "IJGHPC" .
+<http://somewhere/Journal/9047564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047564> <http://somewhere/Journal/name> "ITA" .
+<http://somewhere/Journal/9047739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047739> <http://somewhere/Journal/name> "Int. J. Intelligent Transportation Systems Research" .
+<http://somewhere/Journal/9048041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048041> <http://somewhere/Journal/name> "IJCNS" .
+<http://somewhere/Journal/9048216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048216> <http://somewhere/Journal/name> "ACM Trans. Math. Softw." .
+<http://somewhere/Journal/9047785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047785> <http://somewhere/Journal/name> "IJDET" .
+<http://somewhere/Journal/9047532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047532> <http://somewhere/Journal/name> "Transactions on Data Privacy" .
+<http://somewhere/Journal/9047707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047707> <http://somewhere/Journal/name> "JDFSL" .
+<http://somewhere/Journal/9048262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048262> <http://somewhere/Journal/name> "Technical Rep. UKSC 0060" .
+<http://somewhere/Journal/9047753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047753> <http://somewhere/Journal/name> "World Wide Web Journal" .
+<http://somewhere/Journal/9047500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047500> <http://somewhere/Journal/name> "Entertainment Computing" .
+<http://somewhere/Journal/9047928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047928> <http://somewhere/Journal/name> "SIAM J. Imaging Sciences" .
+<http://somewhere/Journal/9048230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048230> <http://somewhere/Journal/name> "J. Franklin Institute" .
+<http://somewhere/Journal/9047974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047974> <http://somewhere/Journal/name> "Int. J. Comput. Math." .
+<http://somewhere/Journal/9047721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047721> <http://somewhere/Journal/name> "IJ3DIM" .
+<http://somewhere/Journal/9047476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047476> <http://somewhere/Journal/name> "ACM TIST" .
+<http://somewhere/Journal/9047942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047942> <http://somewhere/Journal/name> "IJVR" .
+<http://somewhere/Journal/9048128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048128> <http://somewhere/Journal/name> "Distributed Computing" .
+<http://somewhere/Journal/9047697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047697> <http://somewhere/Journal/name> "Int. J. Accounting Inf. Systems" .
+<http://somewhere/Journal/9047619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047619> <http://somewhere/Journal/name> "AI Soc." .
+<http://somewhere/Journal/9048174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048174> <http://somewhere/Journal/name> "HCIS" .
+<http://somewhere/Journal/9047910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047910> <http://somewhere/Journal/name> "IJKSR" .
+<http://somewhere/Journal/9047490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047490> <http://somewhere/Journal/name> "Foundations and Trends in Machine Learning" .
+<http://somewhere/Journal/9047665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047665> <http://somewhere/Journal/name> "Photonic Network Communications" .
+<http://somewhere/Journal/9048142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048142> <http://somewhere/Journal/name> "Computers and the Humanities" .
+<http://somewhere/Journal/9047886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047886> <http://somewhere/Journal/name> "IJSSOE" .
+<http://somewhere/Journal/9047633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047633> <http://somewhere/Journal/name> "JOEUC" .
+<http://somewhere/Journal/9047808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047808> <http://somewhere/Journal/name> "Soft Comput." .
+<http://somewhere/Journal/9048110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048110> <http://somewhere/Journal/name> "Education for Information" .
+<http://somewhere/Journal/9047854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047854> <http://somewhere/Journal/name> "IJMDEM" .
+<http://somewhere/Journal/9047601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047601> <http://somewhere/Journal/name> "IEEE Expert" .
+<http://somewhere/Journal/9048086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048086> <http://somewhere/Journal/name> "TAAS" .
+<http://somewhere/Journal/9047822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047822> <http://somewhere/Journal/name> "IEEE Trans. Multimedia" .
+<http://somewhere/Journal/9047577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9047577> <http://somewhere/Journal/name> "Inteligencia Artificial" .
+<http://somewhere/Journal/9048008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Journal/> .
+<http://somewhere/Journal/9048008> <http://somewhere/Journal/name> "Computing and Informatics" .

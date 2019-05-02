@@ -1,0 +1,1032 @@
+<http://somewhere/Keyword/100000294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000294> <http://somewhere/Keyword/wordname> "Group" .
+<http://somewhere/Keyword/100000107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000107> <http://somewhere/Keyword/wordname> "Recreation and sports" .
+<http://somewhere/Keyword/100000083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000083> <http://somewhere/Keyword/wordname> "Inventory-Production" .
+<http://somewhere/Keyword/100000475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000475> <http://somewhere/Keyword/wordname> "Scheduling" .
+<http://somewhere/Keyword/100000264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000264> <http://somewhere/Keyword/wordname> "Tracking" .
+<http://somewhere/Keyword/100000179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000179> <http://somewhere/Keyword/wordname> "Computational complexity" .
+<http://somewhere/Keyword/100000053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000053> <http://somewhere/Keyword/wordname> "Sequencing" .
+<http://somewhere/Keyword/100000445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000445> <http://somewhere/Keyword/wordname> "Asset pricing" .
+<http://somewhere/Keyword/100000234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000234> <http://somewhere/Keyword/wordname> "Pharmaceutical" .
+<http://somewhere/Keyword/100000500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000500> <http://somewhere/Keyword/wordname> "Organizational studies-Goals" .
+<http://somewhere/Keyword/100000149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000149> <http://somewhere/Keyword/wordname> "Judicial-Legal" .
+<http://somewhere/Keyword/100000023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000023> <http://somewhere/Keyword/wordname> "-326" .
+<http://somewhere/Keyword/100000415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000415> <http://somewhere/Keyword/wordname> "Operations" .
+<http://somewhere/Keyword/100000391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000391> <http://somewhere/Keyword/wordname> "Programming" .
+<http://somewhere/Keyword/100000204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000204> <http://somewhere/Keyword/wordname> "EOQ" .
+<http://somewhere/Keyword/100000119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000119> <http://somewhere/Keyword/wordname> "Petroleum-Natural gas" .
+<http://somewhere/Keyword/100000180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000180> <http://somewhere/Keyword/wordname> "Transportation equipment" .
+<http://somewhere/Keyword/100000095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000095> <http://somewhere/Keyword/wordname> "Working capital" .
+<http://somewhere/Keyword/100000487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000487> <http://somewhere/Keyword/wordname> "Multiple Criteria" .
+<http://somewhere/Keyword/100000361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000361> <http://somewhere/Keyword/wordname> "Utility-P" .
+<http://somewhere/Keyword/100000276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000276> <http://somewhere/Keyword/wordname> "Job shop" .
+<http://somewhere/Keyword/100000150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000150> <http://somewhere/Keyword/wordname> "Polyhedra" .
+<http://somewhere/Keyword/100000065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000065> <http://somewhere/Keyword/wordname> "Cooperative" .
+<http://somewhere/Keyword/100000457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000457> <http://somewhere/Keyword/wordname> "Output process" .
+<http://somewhere/Keyword/100000331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000331> <http://somewhere/Keyword/wordname> "Transformations" .
+<http://somewhere/Keyword/100000246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000246> <http://somewhere/Keyword/wordname> "Portfolio" .
+<http://somewhere/Keyword/100000120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000120> <http://somewhere/Keyword/wordname> "Crossing problems" .
+<http://somewhere/Keyword/100000512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000512> <http://somewhere/Keyword/wordname> "Test-Evaluation" .
+<http://somewhere/Keyword/100000035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000035> <http://somewhere/Keyword/wordname> "Sampling" .
+<http://somewhere/Keyword/100000427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000427> <http://somewhere/Keyword/wordname> "Linear" .
+<http://somewhere/Keyword/100000301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000301> <http://somewhere/Keyword/wordname> "Hotel-motel" .
+<http://somewhere/Keyword/100000216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000216> <http://somewhere/Keyword/wordname> "Marketing mix" .
+<http://somewhere/Keyword/100000192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000192> <http://somewhere/Keyword/wordname> "Functions" .
+<http://somewhere/Keyword/100000005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000005> <http://somewhere/Keyword/wordname> "data querying" .
+<http://somewhere/Keyword/100000499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000499> <http://somewhere/Keyword/wordname> "Auditing" .
+<http://somewhere/Keyword/100000373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000373> <http://somewhere/Keyword/wordname> "Quadratic" .
+<http://somewhere/Keyword/100000288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000288> <http://somewhere/Keyword/wordname> "Industries" .
+<http://somewhere/Keyword/100000162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000162> <http://somewhere/Keyword/wordname> "Training" .
+<http://somewhere/Keyword/100000077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000077> <http://somewhere/Keyword/wordname> "Applications" .
+<http://somewhere/Keyword/100000469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000469> <http://somewhere/Keyword/wordname> "Dynamic programming" .
+<http://somewhere/Keyword/100000343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000343> <http://somewhere/Keyword/wordname> "Data structures" .
+<http://somewhere/Keyword/100000258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000258> <http://somewhere/Keyword/wordname> "Motivation-incentives" .
+<http://somewhere/Keyword/100000132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000132> <http://somewhere/Keyword/wordname> "Ecology" .
+<http://somewhere/Keyword/100000047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000047> <http://somewhere/Keyword/wordname> "Transient results" .
+<http://somewhere/Keyword/100000439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000439> <http://somewhere/Keyword/wordname> "Differential" .
+<http://somewhere/Keyword/100000313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000313> <http://somewhere/Keyword/wordname> "Approximations-heuristic" .
+<http://somewhere/Keyword/100000228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000228> <http://somewhere/Keyword/wordname> "Chemical" .
+<http://somewhere/Keyword/100000102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000102> <http://somewhere/Keyword/wordname> "Crime" .
+<http://somewhere/Keyword/100000017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000017> <http://somewhere/Keyword/wordname> "Nonparametric" .
+<http://somewhere/Keyword/100000409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000409> <http://somewhere/Keyword/wordname> "Languages" .
+<http://somewhere/Keyword/100000470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000470> <http://somewhere/Keyword/wordname> "Capital assets" .
+<http://somewhere/Keyword/100000385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000385> <http://somewhere/Keyword/wordname> "Recreation-Sports" .
+<http://somewhere/Keyword/100000174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000174> <http://somewhere/Keyword/wordname> "Ellipsoidal" .
+<http://somewhere/Keyword/100000440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000440> <http://somewhere/Keyword/wordname> "Probability" .
+<http://somewhere/Keyword/100000089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000089> <http://somewhere/Keyword/wordname> "Algorithms" .
+<http://somewhere/Keyword/100000355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000355> <http://somewhere/Keyword/wordname> "Product design" .
+<http://somewhere/Keyword/100000144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000144> <http://somewhere/Keyword/wordname> "Space Program" .
+<http://somewhere/Keyword/100000410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000410> <http://somewhere/Keyword/wordname> "Models" .
+<http://somewhere/Keyword/100000059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000059> <http://somewhere/Keyword/wordname> "Real estate" .
+<http://somewhere/Keyword/100000325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000325> <http://somewhere/Keyword/wordname> "Queues" .
+<http://somewhere/Keyword/100000114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000114> <http://somewhere/Keyword/wordname> "Business services" .
+<http://somewhere/Keyword/100000506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000506> <http://somewhere/Keyword/wordname> "Services" .
+<http://somewhere/Keyword/100000029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000029> <http://somewhere/Keyword/wordname> "Journal policies" .
+<http://somewhere/Keyword/100000090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000090> <http://somewhere/Keyword/wordname> "Conservation" .
+<http://somewhere/Keyword/100000482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000482> <http://somewhere/Keyword/wordname> "Measures of effectiveness" .
+<http://somewhere/Keyword/100000397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000397> <http://somewhere/Keyword/wordname> "Promotion" .
+<http://somewhere/Keyword/100000271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000271> <http://somewhere/Keyword/wordname> "OR-MS implementation" .
+<http://somewhere/Keyword/100000186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000186> <http://somewhere/Keyword/wordname> "Optimality conditions" .
+<http://somewhere/Keyword/100000060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000060> <http://somewhere/Keyword/wordname> "Stochastic models" .
+<http://somewhere/Keyword/100000452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000452> <http://somewhere/Keyword/wordname> "Research and developement" .
+<http://somewhere/Keyword/100000367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000367> <http://somewhere/Keyword/wordname> "Multi echelon" .
+<http://somewhere/Keyword/100000241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000241> <http://somewhere/Keyword/wordname> "Deterministic models" .
+<http://somewhere/Keyword/100000156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000156> <http://somewhere/Keyword/wordname> "Choice models" .
+<http://somewhere/Keyword/100000030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000030> <http://somewhere/Keyword/wordname> "Tax policy" .
+<http://somewhere/Keyword/100000422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000422> <http://somewhere/Keyword/wordname> "Philosophy of modeling" .
+<http://somewhere/Keyword/100000337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000337> <http://somewhere/Keyword/wordname> "Personnel" .
+<http://somewhere/Keyword/100000211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000211> <http://somewhere/Keyword/wordname> "Perishable-Decaying items" .
+<http://somewhere/Keyword/100000126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000126> <http://somewhere/Keyword/wordname> "Multi-item-echelon-stage" .
+<http://somewhere/Keyword/100000000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000000> <http://somewhere/Keyword/wordname> "indexing" .
+<http://somewhere/Keyword/100000494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000494> <http://somewhere/Keyword/wordname> "Search-surveillance" .
+<http://somewhere/Keyword/100000307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000307> <http://somewhere/Keyword/wordname> "New products" .
+<http://somewhere/Keyword/100000283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000283> <http://somewhere/Keyword/wordname> "Feedback" .
+<http://somewhere/Keyword/100000198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000198> <http://somewhere/Keyword/wordname> "Replacement-Renewal" .
+<http://somewhere/Keyword/100000072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000072> <http://somewhere/Keyword/wordname> "ORMS philosophy" .
+<http://somewhere/Keyword/100000464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000464> <http://somewhere/Keyword/wordname> "Multicommodity" .
+<http://somewhere/Keyword/100000379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000379> <http://somewhere/Keyword/wordname> "Facilities-equipment planning" .
+<http://somewhere/Keyword/100000253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000253> <http://somewhere/Keyword/wordname> "Engineering" .
+<http://somewhere/Keyword/100000168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000168> <http://somewhere/Keyword/wordname> "Multiple criteria" .
+<http://somewhere/Keyword/100000042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000042> <http://somewhere/Keyword/wordname> "System safety" .
+<http://somewhere/Keyword/100000434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000434> <http://somewhere/Keyword/wordname> "Regression" .
+<http://somewhere/Keyword/100000349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000349> <http://somewhere/Keyword/wordname> "Fractio" .
+<http://somewhere/Keyword/100000223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000223> <http://somewhere/Keyword/wordname> "Input-output analysis" .
+<http://somewhere/Keyword/100000138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000138> <http://somewhere/Keyword/wordname> "Flow shop" .
+<http://somewhere/Keyword/100000012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000012> <http://somewhere/Keyword/wordname> "Markov Processes" .
+<http://somewhere/Keyword/100000404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000404> <http://somewhere/Keyword/wordname> "OR-MS policy-standards" .
+<http://somewhere/Keyword/100000319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000319> <http://somewhere/Keyword/wordname> "Costing" .
+<http://somewhere/Keyword/100000380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000380> <http://somewhere/Keyword/wordname> "Decision support systems" .
+<http://somewhere/Keyword/100000295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000295> <http://somewhere/Keyword/wordname> "Bargaining" .
+<http://somewhere/Keyword/100000108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000108> <http://somewhere/Keyword/wordname> "Scaling" .
+<http://somewhere/Keyword/100000084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000084> <http://somewhere/Keyword/wordname> "Non-atomic" .
+<http://somewhere/Keyword/100000476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000476> <http://somewhere/Keyword/wordname> "Leadtime" .
+<http://somewhere/Keyword/100000350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000350> <http://somewhere/Keyword/wordname> "Taxation" .
+<http://somewhere/Keyword/100000265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000265> <http://somewhere/Keyword/wordname> "Forecasting" .
+<http://somewhere/Keyword/100000054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000054> <http://somewhere/Keyword/wordname> "Organizational studies" .
+<http://somewhere/Keyword/100000446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000446> <http://somewhere/Keyword/wordname> "Costs" .
+<http://somewhere/Keyword/100000320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000320> <http://somewhere/Keyword/wordname> "Cutting plane" .
+<http://somewhere/Keyword/100000235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000235> <http://somewhere/Keyword/wordname> "Treatment" .
+<http://somewhere/Keyword/100000501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000501> <http://somewhere/Keyword/wordname> "Multistate systems" .
+<http://somewhere/Keyword/100000024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000024> <http://somewhere/Keyword/wordname> "Semi Markov" .
+<http://somewhere/Keyword/100000416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000416> <http://somewhere/Keyword/wordname> "Approximations" .
+<http://somewhere/Keyword/100000392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000392> <http://somewhere/Keyword/wordname> "Stochastic-Chance Constrained" .
+<http://somewhere/Keyword/100000205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000205> <http://somewhere/Keyword/wordname> "Heuristic" .
+<http://somewhere/Keyword/100000181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000181> <http://somewhere/Keyword/wordname> "Muliattribute" .
+<http://somewhere/Keyword/100000096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000096> <http://somewhere/Keyword/wordname> "Vehicles" .
+<http://somewhere/Keyword/100000488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000488> <http://somewhere/Keyword/wordname> "Ambulance service" .
+<http://somewhere/Keyword/100000362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000362> <http://somewhere/Keyword/wordname> "Natural Resources" .
+<http://somewhere/Keyword/100000277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000277> <http://somewhere/Keyword/wordname> "Comments on" .
+<http://somewhere/Keyword/100000151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000151> <http://somewhere/Keyword/wordname> "Pattern analysis" .
+<http://somewhere/Keyword/100000066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000066> <http://somewhere/Keyword/wordname> "Approximations-heuristics" .
+<http://somewhere/Keyword/100000458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000458> <http://somewhere/Keyword/wordname> "International marketing" .
+<http://somewhere/Keyword/100000332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000332> <http://somewhere/Keyword/wordname> "Time Series" .
+<http://somewhere/Keyword/100000247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000247> <http://somewhere/Keyword/wordname> "Disposal" .
+<http://somewhere/Keyword/100000121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000121> <http://somewhere/Keyword/wordname> "Time sharing" .
+<http://somewhere/Keyword/100000513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000513> <http://somewhere/Keyword/wordname> "Philosophy" .
+<http://somewhere/Keyword/100000036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000036> <http://somewhere/Keyword/wordname> "Sets" .
+<http://somewhere/Keyword/100000428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000428> <http://somewhere/Keyword/wordname> "Resource constraints" .
+<http://somewhere/Keyword/100000302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000302> <http://somewhere/Keyword/wordname> "Equations" .
+<http://somewhere/Keyword/100000217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000217> <http://somewhere/Keyword/wordname> "Printing-Publications" .
+<http://somewhere/Keyword/100000193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000193> <http://somewhere/Keyword/wordname> "Artificial intelligence" .
+<http://somewhere/Keyword/100000006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000006> <http://somewhere/Keyword/wordname> "Interval" .
+<http://somewhere/Keyword/100000374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000374> <http://somewhere/Keyword/wordname> "Nonstationary" .
+<http://somewhere/Keyword/100000289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000289> <http://somewhere/Keyword/wordname> "State-owned" .
+<http://somewhere/Keyword/100000163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000163> <http://somewhere/Keyword/wordname> "Transportation" .
+<http://somewhere/Keyword/100000078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000078> <http://somewhere/Keyword/wordname> "Foreign policy" .
+<http://somewhere/Keyword/100000344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000344> <http://somewhere/Keyword/wordname> "Data bases" .
+<http://somewhere/Keyword/100000259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000259> <http://somewhere/Keyword/wordname> "Utility-preference" .
+<http://somewhere/Keyword/100000133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000133> <http://somewhere/Keyword/wordname> "Deterministic" .
+<http://somewhere/Keyword/100000048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000048> <http://somewhere/Keyword/wordname> "Finite state" .
+<http://somewhere/Keyword/100000314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000314> <http://somewhere/Keyword/wordname> "GERT" .
+<http://somewhere/Keyword/100000229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000229> <http://somewhere/Keyword/wordname> "Addresses" .
+<http://somewhere/Keyword/100000103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000103> <http://somewhere/Keyword/wordname> "Combinatorics" .
+<http://somewhere/Keyword/100000290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000290> <http://somewhere/Keyword/wordname> "operation" .
+<http://somewhere/Keyword/100000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000018> <http://somewhere/Keyword/wordname> "Branch and bound" .
+<http://somewhere/Keyword/100000471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000471> <http://somewhere/Keyword/wordname> "Geometric" .
+<http://somewhere/Keyword/100000386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000386> <http://somewhere/Keyword/wordname> "Capital budgeting" .
+<http://somewhere/Keyword/100000260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000260> <http://somewhere/Keyword/wordname> "Retail" .
+<http://somewhere/Keyword/100000175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000175> <http://somewhere/Keyword/wordname> "Statist" .
+<http://somewhere/Keyword/100000441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000441> <http://somewhere/Keyword/wordname> "Antisubmarine warfare" .
+<http://somewhere/Keyword/100000356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000356> <http://somewhere/Keyword/wordname> "Fixed Points" .
+<http://somewhere/Keyword/100000230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000230> <http://somewhere/Keyword/wordname> "Defense systems" .
+<http://somewhere/Keyword/100000145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000145> <http://somewhere/Keyword/wordname> "Information" .
+<http://somewhere/Keyword/100000411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000411> <http://somewhere/Keyword/wordname> "Planning horizons" .
+<http://somewhere/Keyword/100000326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000326> <http://somewhere/Keyword/wordname> "Police" .
+<http://somewhere/Keyword/100000200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000200> <http://somewhere/Keyword/wordname> "Generalized networks" .
+<http://somewhere/Keyword/100000115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000115> <http://somewhere/Keyword/wordname> "Product policy" .
+<http://somewhere/Keyword/100000507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000507> <http://somewhere/Keyword/wordname> "Military" .
+<http://somewhere/Keyword/100000091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000091> <http://somewhere/Keyword/wordname> "-401" .
+<http://somewhere/Keyword/100000483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000483> <http://somewhere/Keyword/wordname> "Perishable-aging items" .
+<http://somewhere/Keyword/100000398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000398> <http://somewhere/Keyword/wordname> "Network" .
+<http://somewhere/Keyword/100000272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000272> <http://somewhere/Keyword/wordname> "Policies" .
+<http://somewhere/Keyword/100000187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000187> <http://somewhere/Keyword/wordname> "Heuristics" .
+<http://somewhere/Keyword/100000061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000061> <http://somewhere/Keyword/wordname> "Land development" .
+<http://somewhere/Keyword/100000453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000453> <http://somewhere/Keyword/wordname> "Computational Complexity" .
+<http://somewhere/Keyword/100000368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000368> <http://somewhere/Keyword/wordname> "Programs" .
+<http://somewhere/Keyword/100000242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000242> <http://somewhere/Keyword/wordname> "Textiles-apparel" .
+<http://somewhere/Keyword/100000157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000157> <http://somewhere/Keyword/wordname> "Expert systems" .
+<http://somewhere/Keyword/100000031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000031> <http://somewhere/Keyword/wordname> "Pricing" .
+<http://somewhere/Keyword/100000423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000423> <http://somewhere/Keyword/wordname> "computers-computer science" .
+<http://somewhere/Keyword/100000338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000338> <http://somewhere/Keyword/wordname> "Investment criteria" .
+<http://somewhere/Keyword/100000212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000212> <http://somewhere/Keyword/wordname> "Retailing and wholesaling" .
+<http://somewhere/Keyword/100000127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000127> <http://somewhere/Keyword/wordname> "Choice functions" .
+<http://somewhere/Keyword/100000001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000001> <http://somewhere/Keyword/wordname> "data modeling" .
+<http://somewhere/Keyword/100000495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000495> <http://somewhere/Keyword/wordname> "Theory" .
+<http://somewhere/Keyword/100000308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000308> <http://somewhere/Keyword/wordname> "Utility-Preference" .
+<http://somewhere/Keyword/100000284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000284> <http://somewhere/Keyword/wordname> "Libraries" .
+<http://somewhere/Keyword/100000199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000199> <http://somewhere/Keyword/wordname> "Defense" .
+<http://somewhere/Keyword/100000073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000073> <http://somewhere/Keyword/wordname> "Safety-injuries" .
+<http://somewhere/Keyword/100000465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000465> <http://somewhere/Keyword/wordname> "Distance algorithms" .
+<http://somewhere/Keyword/100000254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000254> <http://somewhere/Keyword/wordname> "Epidemiology" .
+<http://somewhere/Keyword/100000169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000169> <http://somewhere/Keyword/wordname> "Requirements Evaluation" .
+<http://somewhere/Keyword/100000043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000043> <http://somewhere/Keyword/wordname> "Discrete time" .
+<http://somewhere/Keyword/100000435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000435> <http://somewhere/Keyword/wordname> "Replacement" .
+<http://somewhere/Keyword/100000224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000224> <http://somewhere/Keyword/wordname> "Cutting stock-trim" .
+<http://somewhere/Keyword/100000139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000139> <http://somewhere/Keyword/wordname> "Research and development" .
+<http://somewhere/Keyword/100000013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000013> <http://somewhere/Keyword/wordname> "System design-operation" .
+<http://somewhere/Keyword/100000405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000405> <http://somewhere/Keyword/wordname> "Sensitivity" .
+<http://somewhere/Keyword/100000381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000381> <http://somewhere/Keyword/wordname> "-330" .
+<http://somewhere/Keyword/100000296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000296> <http://somewhere/Keyword/wordname> "Line balancing" .
+<http://somewhere/Keyword/100000109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000109> <http://somewhere/Keyword/wordname> "Software" .
+<http://somewhere/Keyword/100000170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000170> <http://somewhere/Keyword/wordname> "Production-scheduling" .
+<http://somewhere/Keyword/100000085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000085> <http://somewhere/Keyword/wordname> "Lanchester theory" .
+<http://somewhere/Keyword/100000477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000477> <http://somewhere/Keyword/wordname> "Cutting stock" .
+<http://somewhere/Keyword/100000351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000351> <http://somewhere/Keyword/wordname> "Maintenance-Repairs" .
+<http://somewhere/Keyword/100000266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000266> <http://somewhere/Keyword/wordname> "Bidding-auctions" .
+<http://somewhere/Keyword/100000140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000140> <http://somewhere/Keyword/wordname> "Lumber-wood" .
+<http://somewhere/Keyword/100000055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000055> <http://somewhere/Keyword/wordname> "Electric" .
+<http://somewhere/Keyword/100000447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000447> <http://somewhere/Keyword/wordname> "Dynamic programming-optimal control" .
+<http://somewhere/Keyword/100000321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000321> <http://somewhere/Keyword/wordname> "Community" .
+<http://somewhere/Keyword/100000236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000236> <http://somewhere/Keyword/wordname> "Redundancy-Spares" .
+<http://somewhere/Keyword/100000110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000110> <http://somewhere/Keyword/wordname> "Labor" .
+<http://somewhere/Keyword/100000502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000502> <http://somewhere/Keyword/wordname> "Systems" .
+<http://somewhere/Keyword/100000025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000025> <http://somewhere/Keyword/wordname> "Diagnosis" .
+<http://somewhere/Keyword/100000417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000417> <http://somewhere/Keyword/wordname> "Multichannel" .
+<http://somewhere/Keyword/100000393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000393> <http://somewhere/Keyword/wordname> "Markets" .
+<http://somewhere/Keyword/100000206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000206> <http://somewhere/Keyword/wordname> "Simplex" .
+<http://somewhere/Keyword/100000182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000182> <http://somewhere/Keyword/wordname> "File systems" .
+<http://somewhere/Keyword/100000097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000097> <http://somewhere/Keyword/wordname> "Flow algorithms" .
+<http://somewhere/Keyword/100000489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000489> <http://somewhere/Keyword/wordname> "Freight-materials handling" .
+<http://somewhere/Keyword/100000363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000363> <http://somewhere/Keyword/wordname> "Channels of distribution" .
+<http://somewhere/Keyword/100000278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000278> <http://somewhere/Keyword/wordname> "Dat" .
+<http://somewhere/Keyword/100000152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000152> <http://somewhere/Keyword/wordname> "Industrial marketing" .
+<http://somewhere/Keyword/100000067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000067> <http://somewhere/Keyword/wordname> "OR-MS philosophy" .
+<http://somewhere/Keyword/100000459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000459> <http://somewhere/Keyword/wordname> "Estimation" .
+<http://somewhere/Keyword/100000333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000333> <http://somewhere/Keyword/wordname> "Warfare models" .
+<http://somewhere/Keyword/99999999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/99999999> <http://somewhere/Keyword/wordname> "data management" .
+<http://somewhere/Keyword/100000248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000248> <http://somewhere/Keyword/wordname> "Blood bank" .
+<http://somewhere/Keyword/100000122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000122> <http://somewhere/Keyword/wordname> "Entropy" .
+<http://somewhere/Keyword/100000514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000514> <http://somewhere/Keyword/wordname> "Productivity" .
+<http://somewhere/Keyword/100000037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000037> <http://somewhere/Keyword/wordname> "Postal" .
+<http://somewhere/Keyword/100000429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000429> <http://somewhere/Keyword/wordname> "Goals" .
+<http://somewhere/Keyword/100000490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000490> <http://somewhere/Keyword/wordname> "Failure models" .
+<http://somewhere/Keyword/100000303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000303> <http://somewhere/Keyword/wordname> "Fire" .
+<http://somewhere/Keyword/100000218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000218> <http://somewhere/Keyword/wordname> "Integer" .
+<http://somewhere/Keyword/100000194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000194> <http://somewhere/Keyword/wordname> "Capacity" .
+<http://somewhere/Keyword/100000007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000007> <http://somewhere/Keyword/wordname> "Cyclic" .
+<http://somewhere/Keyword/100000460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000460> <http://somewhere/Keyword/wordname> "Sensitivity analysis" .
+<http://somewhere/Keyword/100000375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000375> <http://somewhere/Keyword/wordname> "Matrices" .
+<http://somewhere/Keyword/100000164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000164> <http://somewhere/Keyword/wordname> "Pollution" .
+<http://somewhere/Keyword/100000430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000430> <http://somewhere/Keyword/wordname> "Networks-graphs" .
+<http://somewhere/Keyword/100000079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000079> <http://somewhere/Keyword/wordname> "Operating budgets" .
+<http://somewhere/Keyword/100000345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000345> <http://somewhere/Keyword/wordname> "Replacement-renewal" .
+<http://somewhere/Keyword/100000134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000134> <http://somewhere/Keyword/wordname> "Input Output analysis" .
+<http://somewhere/Keyword/100000400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000400> <http://somewhere/Keyword/wordname> "Teams" .
+<http://somewhere/Keyword/100000049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000049> <http://somewhere/Keyword/wordname> "ORMS education" .
+<http://somewhere/Keyword/100000315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000315> <http://somewhere/Keyword/wordname> "Cluster analysis" .
+<http://somewhere/Keyword/100000291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000291> <http://somewhere/Keyword/wordname> "Investment" .
+<http://somewhere/Keyword/100000104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000104> <http://somewhere/Keyword/wordname> "Mining-Me" .
+<http://somewhere/Keyword/100000019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000019> <http://somewhere/Keyword/wordname> "Analysis of variance" .
+<http://somewhere/Keyword/100000080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000080> <http://somewhere/Keyword/wordname> "Nonlinear" .
+<http://somewhere/Keyword/100000472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000472> <http://somewhere/Keyword/wordname> "Cost-Benefit analysis" .
+<http://somewhere/Keyword/100000387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000387> <http://somewhere/Keyword/wordname> "Artificial Intelligence" .
+<http://somewhere/Keyword/100000261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000261> <http://somewhere/Keyword/wordname> "Water resources" .
+<http://somewhere/Keyword/100000176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000176> <http://somewhere/Keyword/wordname> "Decision analysis" .
+<http://somewhere/Keyword/100000050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000050> <http://somewhere/Keyword/wordname> "Search-Surveillance" .
+<http://somewhere/Keyword/100000442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000442> <http://somewhere/Keyword/wordname> "Production-Scheduling" .
+<http://somewhere/Keyword/100000357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000357> <http://somewhere/Keyword/wordname> "Paper" .
+<http://somewhere/Keyword/100000231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000231> <http://somewhere/Keyword/wordname> "Nondifferentiable" .
+<http://somewhere/Keyword/100000146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000146> <http://somewhere/Keyword/wordname> "Voting-Committees" .
+<http://somewhere/Keyword/100000020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000020> <http://somewhere/Keyword/wordname> "Manufacturing" .
+<http://somewhere/Keyword/100000412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000412> <http://somewhere/Keyword/wordname> "Risk" .
+<http://somewhere/Keyword/100000327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000327> <http://somewhere/Keyword/wordname> "Sequential" .
+<http://somewhere/Keyword/100000201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000201> <http://somewhere/Keyword/wordname> "Road" .
+<http://somewhere/Keyword/100000116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000116> <http://somewhere/Keyword/wordname> "Busy period analysis" .
+<http://somewhere/Keyword/100000508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000508> <http://somewhere/Keyword/wordname> "Distribution" .
+<http://somewhere/Keyword/100000092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000092> <http://somewhere/Keyword/wordname> "Mix" .
+<http://somewhere/Keyword/100000484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000484> <http://somewhere/Keyword/wordname> "Limit theorems" .
+<http://somewhere/Keyword/100000399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000399> <http://somewhere/Keyword/wordname> "Tree algorithms" .
+<http://somewhere/Keyword/100000273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000273> <http://somewhere/Keyword/wordname> "Health care" .
+<http://somewhere/Keyword/100000188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000188> <http://somewhere/Keyword/wordname> "Competitive strategy" .
+<http://somewhere/Keyword/100000062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000062> <http://somewhere/Keyword/wordname> "Elections" .
+<http://somewhere/Keyword/100000454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000454> <http://somewhere/Keyword/wordname> "Scaling methods" .
+<http://somewhere/Keyword/100000369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000369> <http://somewhere/Keyword/wordname> "Design" .
+<http://somewhere/Keyword/100000243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000243> <http://somewhere/Keyword/wordname> "Single stage" .
+<http://somewhere/Keyword/100000158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000158> <http://somewhere/Keyword/wordname> "Priority" .
+<http://somewhere/Keyword/100000032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000032> <http://somewhere/Keyword/wordname> "Systems dynamics" .
+<http://somewhere/Keyword/100000424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000424> <http://somewhere/Keyword/wordname> "Innovation" .
+<http://somewhere/Keyword/100000339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000339> <http://somewhere/Keyword/wordname> "Rel" .
+<http://somewhere/Keyword/100000213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000213> <http://somewhere/Keyword/wordname> "Taxis-limousines" .
+<http://somewhere/Keyword/100000128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000128> <http://somewhere/Keyword/wordname> "Space program" .
+<http://somewhere/Keyword/100000002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000002> <http://somewhere/Keyword/wordname> "big data" .
+<http://somewhere/Keyword/100000496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000496> <http://somewhere/Keyword/wordname> "Simulation" .
+<http://somewhere/Keyword/100000309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000309> <http://somewhere/Keyword/wordname> "Corporate" .
+<http://somewhere/Keyword/100000370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000370> <http://somewhere/Keyword/wordname> "Layout" .
+<http://somewhere/Keyword/100000285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000285> <http://somewhere/Keyword/wordname> "Hierarchial planning" .
+<http://somewhere/Keyword/100000074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000074> <http://somewhere/Keyword/wordname> "Inequalities" .
+<http://somewhere/Keyword/100000466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000466> <http://somewhere/Keyword/wordname> "Buyer behavior" .
+<http://somewhere/Keyword/100000340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000340> <http://somewhere/Keyword/wordname> "Leisure" .
+<http://somewhere/Keyword/100000255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000255> <http://somewhere/Keyword/wordname> "Fractional" .
+<http://somewhere/Keyword/100000044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000044> <http://somewhere/Keyword/wordname> "Tactics-strategy" .
+<http://somewhere/Keyword/100000436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000436> <http://somewhere/Keyword/wordname> "Depreciation" .
+<http://somewhere/Keyword/100000310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000310> <http://somewhere/Keyword/wordname> "Project selection" .
+<http://somewhere/Keyword/100000225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000225> <http://somewhere/Keyword/wordname> "Energy" .
+<http://somewhere/Keyword/100000014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000014> <http://somewhere/Keyword/wordname> "Delphi technique" .
+<http://somewhere/Keyword/100000406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000406> <http://somewhere/Keyword/wordname> "War games" .
+<http://somewhere/Keyword/100000382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000382> <http://somewhere/Keyword/wordname> "Marketing-pricing" .
+<http://somewhere/Keyword/100000297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000297> <http://somewhere/Keyword/wordname> "Uncertainty" .
+<http://somewhere/Keyword/100000171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000171> <http://somewhere/Keyword/wordname> "Work studies-Learning" .
+<http://somewhere/Keyword/100000086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000086> <http://somewhere/Keyword/wordname> "Duality" .
+<http://somewhere/Keyword/100000478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000478> <http://somewhere/Keyword/wordname> "Communications" .
+<http://somewhere/Keyword/100000352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000352> <http://somewhere/Keyword/wordname> "Non cooperative" .
+<http://somewhere/Keyword/100000267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000267> <http://somewhere/Keyword/wordname> "Education systems" .
+<http://somewhere/Keyword/100000141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000141> <http://somewhere/Keyword/wordname> "Design of experiments" .
+<http://somewhere/Keyword/100000056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000056> <http://somewhere/Keyword/wordname> "-476" .
+<http://somewhere/Keyword/100000448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000448> <http://somewhere/Keyword/wordname> "Life distributions" .
+<http://somewhere/Keyword/100000322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000322> <http://somewhere/Keyword/wordname> "Single machine" .
+<http://somewhere/Keyword/100000237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000237> <http://somewhere/Keyword/wordname> "Convexity" .
+<http://somewhere/Keyword/100000111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000111> <http://somewhere/Keyword/wordname> "Project Management" .
+<http://somewhere/Keyword/100000503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000503> <http://somewhere/Keyword/wordname> "Tandem" .
+<http://somewhere/Keyword/100000026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000026> <http://somewhere/Keyword/wordname> "Natural resources" .
+<http://somewhere/Keyword/100000418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000418> <http://somewhere/Keyword/wordname> "Tactics-Strategy" .
+<http://somewhere/Keyword/100000394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000394> <http://somewhere/Keyword/wordname> "Transient Results" .
+<http://somewhere/Keyword/100000207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000207> <http://somewhere/Keyword/wordname> "Balking and reneging" .
+<http://somewhere/Keyword/100000183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000183> <http://somewhere/Keyword/wordname> "Ordering" .
+<http://somewhere/Keyword/100000098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000098> <http://somewhere/Keyword/wordname> "-500" .
+<http://somewhere/Keyword/100000364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000364> <http://somewhere/Keyword/wordname> "Censoring" .
+<http://somewhere/Keyword/100000279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000279> <http://somewhere/Keyword/wordname> "Complementarity" .
+<http://somewhere/Keyword/100000153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000153> <http://somewhere/Keyword/wordname> "Distribution comparisons" .
+<http://somewhere/Keyword/100000068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000068> <http://somewhere/Keyword/wordname> "Automobile" .
+<http://somewhere/Keyword/100000334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000334> <http://somewhere/Keyword/wordname> "Markov processes" .
+<http://somewhere/Keyword/100000249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000249> <http://somewhere/Keyword/wordname> "Operating characteristics" .
+<http://somewhere/Keyword/100000123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000123> <http://somewhere/Keyword/wordname> "Benders-decomposition" .
+<http://somewhere/Keyword/100000038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000038> <http://somewhere/Keyword/wordname> "Inference" .
+<http://somewhere/Keyword/100000491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000491> <http://somewhere/Keyword/wordname> "Analysis and design" .
+<http://somewhere/Keyword/100000304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000304> <http://somewhere/Keyword/wordname> "Unconstrained" .
+<http://somewhere/Keyword/100000219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000219> <http://somewhere/Keyword/wordname> "Parametric" .
+<http://somewhere/Keyword/100000280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000280> <http://somewhere/Keyword/wordname> "Financial institutions" .
+<http://somewhere/Keyword/100000195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000195> <http://somewhere/Keyword/wordname> "Population" .
+<http://somewhere/Keyword/100000008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000008> <http://somewhere/Keyword/wordname> "Networks-Graphs" .
+<http://somewhere/Keyword/100000461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000461> <http://somewhere/Keyword/wordname> "Open shop" .
+<http://somewhere/Keyword/100000376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000376> <http://somewhere/Keyword/wordname> "Generalized network" .
+<http://somewhere/Keyword/100000250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000250> <http://somewhere/Keyword/wordname> "Coherent structures" .
+<http://somewhere/Keyword/100000165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000165> <http://somewhere/Keyword/wordname> "Agriculture-Food" .
+<http://somewhere/Keyword/100000431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000431> <http://somewhere/Keyword/wordname> "Mode-Route choice" .
+<http://somewhere/Keyword/100000346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000346> <http://somewhere/Keyword/wordname> "Agriculture-food" .
+<http://somewhere/Keyword/100000220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000220> <http://somewhere/Keyword/wordname> "Corporate finance" .
+<http://somewhere/Keyword/100000135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000135> <http://somewhere/Keyword/wordname> "Structures" .
+<http://somewhere/Keyword/100000401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000401> <http://somewhere/Keyword/wordname> "Family planning" .
+<http://somewhere/Keyword/100000316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000316> <http://somewhere/Keyword/wordname> "Crime prevention" .
+<http://somewhere/Keyword/100000292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000292> <http://somewhere/Keyword/wordname> "Air" .
+<http://somewhere/Keyword/100000105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000105> <http://somewhere/Keyword/wordname> "Hospitals" .
+<http://somewhere/Keyword/100000081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000081> <http://somewhere/Keyword/wordname> "Quality control" .
+<http://somewhere/Keyword/100000473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000473> <http://somewhere/Keyword/wordname> "Search and surveillance" .
+<http://somewhere/Keyword/100000388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000388> <http://somewhere/Keyword/wordname> "Information Theory" .
+<http://somewhere/Keyword/100000262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000262> <http://somewhere/Keyword/wordname> "ORMS implementation" .
+<http://somewhere/Keyword/100000177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000177> <http://somewhere/Keyword/wordname> "Recreation-sports" .
+<http://somewhere/Keyword/100000051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000051> <http://somewhere/Keyword/wordname> "Infinite state" .
+<http://somewhere/Keyword/100000443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000443> <http://somewhere/Keyword/wordname> "Decision making" .
+<http://somewhere/Keyword/100000358> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000358> <http://somewhere/Keyword/wordname> "Value theory" .
+<http://somewhere/Keyword/100000232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000232> <http://somewhere/Keyword/wordname> "Production smoothing" .
+<http://somewhere/Keyword/100000147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000147> <http://somewhere/Keyword/wordname> "Manpower planning" .
+<http://somewhere/Keyword/100000021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000021> <http://somewhere/Keyword/wordname> "Organizational studies-Strategy" .
+<http://somewhere/Keyword/100000413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000413> <http://somewhere/Keyword/wordname> "Piecewise linear" .
+<http://somewhere/Keyword/100000328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000328> <http://somewhere/Keyword/wordname> "Effectiveness-performance" .
+<http://somewhere/Keyword/100000202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000202> <http://somewhere/Keyword/wordname> "Automated systems" .
+<http://somewhere/Keyword/100000117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000117> <http://somewhere/Keyword/wordname> "Relaxation-subgradient" .
+<http://somewhere/Keyword/100000509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000509> <http://somewhere/Keyword/wordname> "Motivation-Incentives" .
+<http://somewhere/Keyword/100000093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000093> <http://somewhere/Keyword/wordname> "Advertising-promotion" .
+<http://somewhere/Keyword/100000485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000485> <http://somewhere/Keyword/wordname> "Fuel" .
+<http://somewhere/Keyword/100000274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000274> <http://somewhere/Keyword/wordname> "Brokerage-trading" .
+<http://somewhere/Keyword/100000189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000189> <http://somewhere/Keyword/wordname> "Enumerative" .
+<http://somewhere/Keyword/100000063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000063> <http://somewhere/Keyword/wordname> "Marketing" .
+<http://somewhere/Keyword/100000455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000455> <http://somewhere/Keyword/wordname> "Waste disposal" .
+<http://somewhere/Keyword/100000244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000244> <http://somewhere/Keyword/wordname> "Lumber-Wood" .
+<http://somewhere/Keyword/100000510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000510> <http://somewhere/Keyword/wordname> "Securities" .
+<http://somewhere/Keyword/100000159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000159> <http://somewhere/Keyword/wordname> "Markov" .
+<http://somewhere/Keyword/100000033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000033> <http://somewhere/Keyword/wordname> "Birth-death" .
+<http://somewhere/Keyword/100000425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000425> <http://somewhere/Keyword/wordname> "Transportation-shipping" .
+<http://somewhere/Keyword/100000214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000214> <http://somewhere/Keyword/wordname> "Location" .
+<http://somewhere/Keyword/100000129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000129> <http://somewhere/Keyword/wordname> "Flexible manufacturing-line balancing" .
+<http://somewhere/Keyword/100000003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000003> <http://somewhere/Keyword/wordname> "data processing" .
+<http://somewhere/Keyword/100000190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000190> <http://somewhere/Keyword/wordname> "Diffusion" .
+<http://somewhere/Keyword/100000497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000497> <http://somewhere/Keyword/wordname> "Electric-Electronic" .
+<http://somewhere/Keyword/100000371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000371> <http://somewhere/Keyword/wordname> "Lot sizing(closed shop)" .
+<http://somewhere/Keyword/100000286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000286> <http://somewhere/Keyword/wordname> "Rail" .
+<http://somewhere/Keyword/100000160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000160> <http://somewhere/Keyword/wordname> "Freight-Materials handling" .
+<http://somewhere/Keyword/100000075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000075> <http://somewhere/Keyword/wordname> "Capacity expansion" .
+<http://somewhere/Keyword/100000467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000467> <http://somewhere/Keyword/wordname> "Bayesian" .
+<http://somewhere/Keyword/100000341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000341> <http://somewhere/Keyword/wordname> "Inspection" .
+<http://somewhere/Keyword/100000256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000256> <http://somewhere/Keyword/wordname> "Logistics" .
+<http://somewhere/Keyword/100000130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000130> <http://somewhere/Keyword/wordname> "Measurement" .
+<http://somewhere/Keyword/100000045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000045> <http://somewhere/Keyword/wordname> "Maintenance-replacement" .
+<http://somewhere/Keyword/100000437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000437> <http://somewhere/Keyword/wordname> "Stochastic duels" .
+<http://somewhere/Keyword/100000311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000311> <http://somewhere/Keyword/wordname> "Microcomputers" .
+<http://somewhere/Keyword/100000226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000226> <http://somewhere/Keyword/wordname> "Scale-diseconomies-smoothing" .
+<http://somewhere/Keyword/100000100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000100> <http://somewhere/Keyword/wordname> "Optimal Control" .
+<http://somewhere/Keyword/100000015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000015> <http://somewhere/Keyword/wordname> "Capital budgets" .
+<http://somewhere/Keyword/100000407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000407> <http://somewhere/Keyword/wordname> "Learning" .
+<http://somewhere/Keyword/100000383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000383> <http://somewhere/Keyword/wordname> "Random walk" .
+<http://somewhere/Keyword/100000298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000298> <http://somewhere/Keyword/wordname> "Finance" .
+<http://somewhere/Keyword/100000172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000172> <http://somewhere/Keyword/wordname> "Econometrics" .
+<http://somewhere/Keyword/100000087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000087> <http://somewhere/Keyword/wordname> "Vehicle routing" .
+<http://somewhere/Keyword/100000479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000479> <http://somewhere/Keyword/wordname> "Government" .
+<http://somewhere/Keyword/100000353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000353> <http://somewhere/Keyword/wordname> "Continuous" .
+<http://somewhere/Keyword/100000268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000268> <http://somewhere/Keyword/wordname> "Information systems" .
+<http://somewhere/Keyword/100000142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000142> <http://somewhere/Keyword/wordname> "Clearing processes" .
+<http://somewhere/Keyword/100000057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000057> <http://somewhere/Keyword/wordname> "VERT" .
+<http://somewhere/Keyword/100000449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000449> <http://somewhere/Keyword/wordname> "Advertising and media" .
+<http://somewhere/Keyword/100000323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000323> <http://somewhere/Keyword/wordname> "Multiple machine" .
+<http://somewhere/Keyword/100000238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000238> <http://somewhere/Keyword/wordname> "Benders-Decomposition" .
+<http://somewhere/Keyword/100000112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000112> <http://somewhere/Keyword/wordname> "Humor-satire" .
+<http://somewhere/Keyword/100000504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000504> <http://somewhere/Keyword/wordname> "Regenerative processes" .
+<http://somewhere/Keyword/100000027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000027> <http://somewhere/Keyword/wordname> "Sales force" .
+<http://somewhere/Keyword/100000419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000419> <http://somewhere/Keyword/wordname> "Markovian" .
+<http://somewhere/Keyword/100000480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000480> <http://somewhere/Keyword/wordname> "Regulations" .
+<http://somewhere/Keyword/100000395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000395> <http://somewhere/Keyword/wordname> "Efficiency" .
+<http://somewhere/Keyword/100000208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000208> <http://somewhere/Keyword/wordname> "Penal system" .
+<http://somewhere/Keyword/100000184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000184> <http://somewhere/Keyword/wordname> "Law" .
+<http://somewhere/Keyword/100000450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000450> <http://somewhere/Keyword/wordname> "Voting-committees" .
+<http://somewhere/Keyword/100000099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000099> <http://somewhere/Keyword/wordname> "Weather" .
+<http://somewhere/Keyword/100000365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000365> <http://somewhere/Keyword/wordname> "Salesforce" .
+<http://somewhere/Keyword/100000154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000154> <http://somewhere/Keyword/wordname> "Planning" .
+<http://somewhere/Keyword/100000420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000420> <http://somewhere/Keyword/wordname> "Computers" .
+<http://somewhere/Keyword/100000069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000069> <http://somewhere/Keyword/wordname> "Energy policies" .
+<http://somewhere/Keyword/100000335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000335> <http://somewhere/Keyword/wordname> "Games-Group Decisions" .
+<http://somewhere/Keyword/100000124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000124> <http://somewhere/Keyword/wordname> "Statistics" .
+<http://somewhere/Keyword/100000039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000039> <http://somewhere/Keyword/wordname> "Performance-productivity" .
+<http://somewhere/Keyword/100000492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000492> <http://somewhere/Keyword/wordname> "Decision analys" .
+<http://somewhere/Keyword/100000305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000305> <http://somewhere/Keyword/wordname> "Birth-Death" .
+<http://somewhere/Keyword/100000281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000281> <http://somewhere/Keyword/wordname> "Diffusion models" .
+<http://somewhere/Keyword/100000196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000196> <http://somewhere/Keyword/wordname> "Relaxation" .
+<http://somewhere/Keyword/100000009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000009> <http://somewhere/Keyword/wordname> "Advertising" .
+<http://somewhere/Keyword/100000070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000070> <http://somewhere/Keyword/wordname> "Linear decision rules" .
+<http://somewhere/Keyword/100000462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000462> <http://somewhere/Keyword/wordname> "State owned" .
+<http://somewhere/Keyword/100000377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000377> <http://somewhere/Keyword/wordname> "Mining-metals" .
+<http://somewhere/Keyword/100000251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000251> <http://somewhere/Keyword/wordname> "Capital rationing" .
+<http://somewhere/Keyword/100000166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000166> <http://somewhere/Keyword/wordname> "Targeting" .
+<http://somewhere/Keyword/100000040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000040> <http://somewhere/Keyword/wordname> "Review-lead times" .
+<http://somewhere/Keyword/100000432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000432> <http://somewhere/Keyword/wordname> "Textiles-Apparel" .
+<http://somewhere/Keyword/100000347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000347> <http://somewhere/Keyword/wordname> "Travel" .
+<http://somewhere/Keyword/100000221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000221> <http://somewhere/Keyword/wordname> "Factor analysis" .
+<http://somewhere/Keyword/100000136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000136> <http://somewhere/Keyword/wordname> "Time series" .
+<http://somewhere/Keyword/100000010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000010> <http://somewhere/Keyword/wordname> "Estimation-statistical techniques" .
+<http://somewhere/Keyword/100000402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000402> <http://somewhere/Keyword/wordname> "Resource Constraints" .
+<http://somewhere/Keyword/100000317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000317> <http://somewhere/Keyword/wordname> "Multi-commodity" .
+<http://somewhere/Keyword/100000293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000293> <http://somewhere/Keyword/wordname> "Route selection" .
+<http://somewhere/Keyword/100000106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000106> <http://somewhere/Keyword/wordname> "Politics" .
+<http://somewhere/Keyword/100000082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000082> <http://somewhere/Keyword/wordname> "Analysis of algorithms" .
+<http://somewhere/Keyword/100000474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000474> <http://somewhere/Keyword/wordname> "Mass transit" .
+<http://somewhere/Keyword/100000389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000389> <http://somewhere/Keyword/wordname> "Missile systems" .
+<http://somewhere/Keyword/100000263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000263> <http://somewhere/Keyword/wordname> "Disposal-issuing" .
+<http://somewhere/Keyword/100000178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000178> <http://somewhere/Keyword/wordname> "Availability" .
+<http://somewhere/Keyword/100000052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000052> <http://somewhere/Keyword/wordname> "PERT" .
+<http://somewhere/Keyword/100000444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000444> <http://somewhere/Keyword/wordname> "Parametric analysis" .
+<http://somewhere/Keyword/100000359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000359> <http://somewhere/Keyword/wordname> "Inventory-production" .
+<http://somewhere/Keyword/100000233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000233> <http://somewhere/Keyword/wordname> "Computers-computer science" .
+<http://somewhere/Keyword/100000148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000148> <http://somewhere/Keyword/wordname> "Reliability" .
+<http://somewhere/Keyword/100000022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000022> <http://somewhere/Keyword/wordname> "Renewal processes" .
+<http://somewhere/Keyword/100000414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000414> <http://somewhere/Keyword/wordname> "Fixed points" .
+<http://somewhere/Keyword/100000329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000329> <http://somewhere/Keyword/wordname> "Infinite dimensional" .
+<http://somewhere/Keyword/100000390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000390> <http://somewhere/Keyword/wordname> "Competition" .
+<http://somewhere/Keyword/100000203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000203> <http://somewhere/Keyword/wordname> "Packaging" .
+<http://somewhere/Keyword/100000118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000118> <http://somewhere/Keyword/wordname> "Gambling" .
+<http://somewhere/Keyword/100000094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000094> <http://somewhere/Keyword/wordname> "Cost effectiveness" .
+<http://somewhere/Keyword/100000486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000486> <http://somewhere/Keyword/wordname> "Contruction" .
+<http://somewhere/Keyword/100000360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000360> <http://somewhere/Keyword/wordname> "Machinery" .
+<http://somewhere/Keyword/100000275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000275> <http://somewhere/Keyword/wordname> "Systems solution" .
+<http://somewhere/Keyword/100000064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000064> <http://somewhere/Keyword/wordname> "Behavior" .
+<http://somewhere/Keyword/100000456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000456> <http://somewhere/Keyword/wordname> "Statistical analysis" .
+<http://somewhere/Keyword/100000330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000330> <http://somewhere/Keyword/wordname> "Urban" .
+<http://somewhere/Keyword/100000245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000245> <http://somewhere/Keyword/wordname> "Networks" .
+<http://somewhere/Keyword/100000511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000511> <http://somewhere/Keyword/wordname> "OR-MS education" .
+<http://somewhere/Keyword/100000034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000034> <http://somewhere/Keyword/wordname> "MRP" .
+<http://somewhere/Keyword/100000426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000426> <http://somewhere/Keyword/wordname> "Shock models" .
+<http://somewhere/Keyword/100000300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000300> <http://somewhere/Keyword/wordname> "Random variable generation" .
+<http://somewhere/Keyword/100000215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000215> <http://somewhere/Keyword/wordname> "Agencies" .
+<http://somewhere/Keyword/100000191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000191> <http://somewhere/Keyword/wordname> "ARIMA processes" .
+<http://somewhere/Keyword/100000004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000004> <http://somewhere/Keyword/wordname> "data storage" .
+<http://somewhere/Keyword/100000498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000498> <http://somewhere/Keyword/wordname> "Discrete" .
+<http://somewhere/Keyword/100000372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000372> <http://somewhere/Keyword/wordname> "Stochastic model applications" .
+<http://somewhere/Keyword/100000287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000287> <http://somewhere/Keyword/wordname> "Cost analysis" .
+<http://somewhere/Keyword/100000161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000161> <http://somewhere/Keyword/wordname> "Criteria" .
+<http://somewhere/Keyword/100000076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000076> <http://somewhere/Keyword/wordname> "Computer-electronic" .
+<http://somewhere/Keyword/100000468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000468> <http://somewhere/Keyword/wordname> "Large scale systems" .
+<http://somewhere/Keyword/100000342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000342> <http://somewhere/Keyword/wordname> "Obituaries" .
+<http://somewhere/Keyword/100000257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000257> <http://somewhere/Keyword/wordname> "Suboptimal algorithms" .
+<http://somewhere/Keyword/100000131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000131> <http://somewhere/Keyword/wordname> "SemiMarkov" .
+<http://somewhere/Keyword/100000046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000046> <http://somewhere/Keyword/wordname> "Distributions" .
+<http://somewhere/Keyword/100000438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000438> <http://somewhere/Keyword/wordname> "Traffic" .
+<http://somewhere/Keyword/100000312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000312> <http://somewhere/Keyword/wordname> "Cutting plane-facet generation" .
+<http://somewhere/Keyword/100000227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000227> <http://somewhere/Keyword/wordname> "Non-cooperative" .
+<http://somewhere/Keyword/100000101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000101> <http://somewhere/Keyword/wordname> "Project management" .
+<http://somewhere/Keyword/100000016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000016> <http://somewhere/Keyword/wordname> "Economics" .
+<http://somewhere/Keyword/100000408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000408> <http://somewhere/Keyword/wordname> "Batch(bulk)" .
+<http://somewhere/Keyword/100000384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000384> <http://somewhere/Keyword/wordname> "Dynamic Programming-optimal control" .
+<http://somewhere/Keyword/100000299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000299> <http://somewhere/Keyword/wordname> "Water" .
+<http://somewhere/Keyword/100000173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000173> <http://somewhere/Keyword/wordname> "-110" .
+<http://somewhere/Keyword/100000088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000088> <http://somewhere/Keyword/wordname> "Force effectiveness" .
+<http://somewhere/Keyword/100000354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000354> <http://somewhere/Keyword/wordname> "Stochastic" .
+<http://somewhere/Keyword/100000269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000269> <http://somewhere/Keyword/wordname> "-244" .
+<http://somewhere/Keyword/100000143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000143> <http://somewhere/Keyword/wordname> "Statistical inference" .
+<http://somewhere/Keyword/100000058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000058> <http://somewhere/Keyword/wordname> "Strategy" .
+<http://somewhere/Keyword/100000324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000324> <http://somewhere/Keyword/wordname> "Assets pricing" .
+<http://somewhere/Keyword/100000239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000239> <http://somewhere/Keyword/wordname> "Petroleum-natural gas" .
+<http://somewhere/Keyword/100000113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000113> <http://somewhere/Keyword/wordname> "Scale-economies-lot sizing" .
+<http://somewhere/Keyword/100000505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000505> <http://somewhere/Keyword/wordname> "Segmentation" .
+<http://somewhere/Keyword/100000028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000028> <http://somewhere/Keyword/wordname> "Traveling salesman" .
+<http://somewhere/Keyword/100000481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000481> <http://somewhere/Keyword/wordname> "Banks" .
+<http://somewhere/Keyword/100000396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000396> <http://somewhere/Keyword/wordname> "Maintenance-repairs" .
+<http://somewhere/Keyword/100000209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000209> <http://somewhere/Keyword/wordname> "Matchings" .
+<http://somewhere/Keyword/100000270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000270> <http://somewhere/Keyword/wordname> "Correlation" .
+<http://somewhere/Keyword/100000185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000185> <http://somewhere/Keyword/wordname> "Facilities-Equipment planning" .
+<http://somewhere/Keyword/100000451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000451> <http://somewhere/Keyword/wordname> "Mathematics" .
+<http://somewhere/Keyword/100000366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000366> <http://somewhere/Keyword/wordname> "Materials handling" .
+<http://somewhere/Keyword/100000240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000240> <http://somewhere/Keyword/wordname> "Environment" .
+<http://somewhere/Keyword/100000155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000155> <http://somewhere/Keyword/wordname> "Accounting" .
+<http://somewhere/Keyword/100000421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000421> <http://somewhere/Keyword/wordname> "Redundancy-spares" .
+<http://somewhere/Keyword/100000336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000336> <http://somewhere/Keyword/wordname> "Games-group decisions" .
+<http://somewhere/Keyword/100000210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000210> <http://somewhere/Keyword/wordname> "Mining-Metals" .
+<http://somewhere/Keyword/100000125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000125> <http://somewhere/Keyword/wordname> "Optimization" .
+<http://somewhere/Keyword/100000493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000493> <http://somewhere/Keyword/wordname> "Switching" .
+<http://somewhere/Keyword/100000306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000306> <http://somewhere/Keyword/wordname> "Wholesale" .
+<http://somewhere/Keyword/100000282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000282> <http://somewhere/Keyword/wordname> "Management" .
+<http://somewhere/Keyword/100000197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000197> <http://somewhere/Keyword/wordname> "Judicial-legal" .
+<http://somewhere/Keyword/100000071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000071> <http://somewhere/Keyword/wordname> "Insurance" .
+<http://somewhere/Keyword/100000463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000463> <http://somewhere/Keyword/wordname> "Technology" .
+<http://somewhere/Keyword/100000378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000378> <http://somewhere/Keyword/wordname> "Professional" .
+<http://somewhere/Keyword/100000252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000252> <http://somewhere/Keyword/wordname> "Assignment" .
+<http://somewhere/Keyword/100000167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000167> <http://somewhere/Keyword/wordname> "System dynamics" .
+<http://somewhere/Keyword/100000041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000041> <http://somewhere/Keyword/wordname> "CPM" .
+<http://somewhere/Keyword/100000433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000433> <http://somewhere/Keyword/wordname> "Data analysis" .
+<http://somewhere/Keyword/100000348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000348> <http://somewhere/Keyword/wordname> "Convex" .
+<http://somewhere/Keyword/100000222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000222> <http://somewhere/Keyword/wordname> "Batch-bulk" .
+<http://somewhere/Keyword/100000137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000137> <http://somewhere/Keyword/wordname> "Research and Development" .
+<http://somewhere/Keyword/100000011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000011> <http://somewhere/Keyword/wordname> "Leadership" .
+<http://somewhere/Keyword/100000403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000403> <http://somewhere/Keyword/wordname> "Multiattribute" .
+<http://somewhere/Keyword/100000318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://somewhere/Keyword/> .
+<http://somewhere/Keyword/100000318> <http://somewhere/Keyword/wordname> "Communications-journalism" .
