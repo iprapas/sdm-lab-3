@@ -1,11 +1,11 @@
 import java.lang.*;
 
 public class Main {
-    static String baseURI    = "http://somewhere/";
-    private static String[] nodeNames = {"Author", "Conference", "Journal", "Paper", "Keyword", "Review"};
-    private static String[] edgeNames = {"cites", "has", "isFor", "isMainAuthor", "wroteArticle", "wroteReview"};
+    static String baseURI    = "http://localhost:8890/lab3/";
+    private static String[] nodeNames = {"Author", "Paper", "JournalVolume", "Review", "Keyword", "Conference", "Journal", "ConferenceEdition"};
+    private static String[] edgeNames = { "cites", "relatedToKeyword", "refersTo", "belongsToJournal", "wroteReview", "wrotePaper", "publishedInConference", "belongsToConference", "publishedInJournal", "hasMainAuthor"};
     static String outputPath = "./src/main/resources/output/";
-    static String tripleFormat = "TURTLE";
+    static String tripleFormat = "NT";
     /*
      * "TURTLE"	TURTLE
      * "TTL"	TURTLE
@@ -19,12 +19,11 @@ public class Main {
      * "N3"	N3
      * "RDF/JSON"	RDFJSON
      */
-
     public static void main(String[] args) throws Exception {
         if (args.length < 1) {
             throw new Exception("Wrong number of parameters, usage: load N (number of documents to create) or Q1/Q2");
         }
-        String inputPath = "./src/main/resources/input";
+        String inputPath = "./src/main/resources/input/";
         String filePath;
         if (args[0].equals("nodes")) {
             for (String tableName:nodeNames) {

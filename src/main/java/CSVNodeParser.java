@@ -15,7 +15,7 @@ class CSVNodeParser {
         Model model = ModelFactory.createDefaultModel();
         model.setNsPrefix( "base", baseURI );
 
-        String localURI = baseURI + tableName + "/";
+        String localURI = baseURI + tableName;
         BufferedReader reader = null;
         try {
             reader = new BufferedReader(new FileReader(fileName));
@@ -28,11 +28,11 @@ class CSVNodeParser {
         line = csvReader.readNext();
         ArrayList<Property> properties = new ArrayList<Property>();
         for (int i=1; i<=line.length-1; i++) {
-            properties.add(model.createProperty(localURI + line[i]));
+            properties.add(model.createProperty(baseURI + line[i]));
         }
         Property typeProperty = model.createProperty(localURI);
         while ((line = csvReader.readNext()) != null) {
-            Resource res = model.createResource(localURI + line[0]);
+            Resource res = model.createResource(localURI + "/" + line[0]);
             int i =1;
             for (Property prop:properties) {
                 res.addProperty(prop, line[i++]);
@@ -43,8 +43,10 @@ class CSVNodeParser {
         csvReader.close();
 
         // now write the model to a file
-        Writer writer = new FileWriter(String.format("%s%s.txt", Main.outputPath, tableName));
+        Writer writer = new FileWriter(String.format("%sLAB3.%s.nt", Main.outputPath, tableName));
         model.write(writer, Main.tripleFormat);
         writer.close();
     }
+
+
 }

@@ -30,7 +30,7 @@ class CSVEdgeParser {
         csvReader.close();
 
         // now write the model to a file
-        Writer writer = new FileWriter(String.format("%s%s.txt", Main.outputPath, tableName));
+        Writer writer = new FileWriter(String.format("%sLAB3.%s.txt", Main.outputPath, tableName));
         model.write(writer, Main.tripleFormat);
         writer.close();
     }
